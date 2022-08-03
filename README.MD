@@ -1,0 +1,9 @@
+| Day | Task Id | Task     | Solution(s) |
+|-----|---------|---------------|----------|
+| 1   | 242     | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[Anagram](src/main/java/day_001/Anagram.java)|
+| 2   | 890     | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) |[FindAndReplacePattern](src/main/java/day_002/FindAndReplacePattern.java)|
+| 3   | 916     | [Word Subsets](https://leetcode.com/problems/word-subsets/)|[WordSubsets](src/main/java/day_003/WordSubsets.java) <br/> [WordSubsetsArrays](src/main/java/day_003/WordSubsetsArrays.java)|
+| 4   | 307     | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) |[NumArray](src/main/java/day_004/NumArray.java)|
+| 5   | 062     | [Unique Paths](https://leetcode.com/problems/unique-paths/) |[UniquePaths](src/main/java/day_005/UniquePaths.java)|
+| 6   | 378     | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |[KthSmallest](src/main/java/day_006/KthSmallest.java)|
+| 7   | 729     | [My Calendar I](https://leetcode.com/problems/my-calendar-i/) |[MyCalendar](src/main/java/day_007/MyCalendar.java) <br/> [MyCalendar_Arrays](src/main/java/day_007/MyCalendar_Arrays.java)||
