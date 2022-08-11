@@ -1,7 +1,7 @@
 package day_014;
 
-import day_014.ConvertSortedArrayToBinarySearchTree.TreeNode;
 import org.junit.jupiter.api.Test;
+import utils.tree.TreeNode;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.samePropertyValuesAs;

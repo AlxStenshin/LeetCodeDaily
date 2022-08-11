@@ -1,5 +1,7 @@
 package day_014;
 
+import utils.tree.TreeNode;
+
 /**
  * 108. Convert Sorted Array to Binary Search Tree
  * https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
@@ -28,22 +30,6 @@ public class ConvertSortedArrayToBinarySearchTree {
         return new TreeNode(nums[mid],
                 createTreeNode(nums, l, mid - 1),
                 createTreeNode(nums, mid + 1, r));
-    }
-
-    public static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
     }
 }
 
