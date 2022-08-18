@@ -21,3 +21,4 @@
 | 19  | 13      | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [RomanToInteger](src/main/java/day_019/RomanToInteger.java)                                             |
 | 20  | 387      | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [FirstUniqueCharacter](src/main/java/day_020/FirstUniqueCharacter.java)                                             |
 | 21  | 804      | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [UniqueMorseCodeWords](src/main/java/day_021/UniqueMorseCodeWords.java)                                             |
+| 22  | 1338      | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [ReduceArraySizeToTheHalf](src/main/java/day_022/ReduceArraySizeToTheHalf.java)                                             |
