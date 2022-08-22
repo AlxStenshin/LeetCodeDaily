@@ -25,3 +25,4 @@
 | 23  | 659      | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [SplitArrayIntoConsecutiveSubsequences](src/main/java/day_023/SplitArrayIntoConsecutiveSubsequences.java)                                             |
 | 24  | 871      | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [MinimumNumberOfRefuelingStops](src/main/java/day_024/MinimumNumberOfRefuelingStops.java)                                             |
 | 25  | 936      | [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/) | [StampingTheSequence](src/main/java/day_025/StampingTheSequence.java)                                             |
+| 26  | 342      | [Power of Four](https://leetcode.com/problems/power-of-four/) | [PowerOfFour](src/main/java/day_026/PowerOfFour.java)                                             |
