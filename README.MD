@@ -27,3 +27,4 @@
 | 25  | 936      | [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/) | [StampingTheSequence](src/main/java/day_025/StampingTheSequence.java)                                             |
 | 26  | 342      | [Power of Four](https://leetcode.com/problems/power-of-four/) | [PowerOfFour](src/main/java/day_026/PowerOfFour.java)                                             |
 | 27  | 234      | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [PalindromeLinkedList](src/main/java/day_027/PalindromeLinkedList.java)                                             |
+| 28  | 326      | [Power of Three](https://leetcode.com/problems/power-of-three/) | [PowerOfThree](src/main/java/day_027/PalindromeLinkedList.java)                                             |
