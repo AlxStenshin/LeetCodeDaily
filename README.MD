@@ -30,3 +30,4 @@
 | 28  | 326      | [Power of Three](https://leetcode.com/problems/power-of-three/) | [PowerOfThree](src/main/java/day_028/PowerOfThree.java)                                             |
 | 29  | 383      | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [RansomNote](src/main/java/day_029/RansomNote.java)                                             |
 | 30  | 869      | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [ReorderedPowerOf2](src/main/java/day_030/ReorderedPowerOf2.java)                                             |
+| 31  | 363      | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [MaxSumOfRectangle](src/main/java/day_031/MaxSumOfRectangle.java)                                             |
