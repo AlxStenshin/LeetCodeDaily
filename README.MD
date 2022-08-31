@@ -1,3 +1,10 @@
+
+<p align="center">
+    <img src="https://leetcode.com/static/images/badges/2022/gif/2022-08.gif" alt="Logo" height="80">
+
+<details>
+  <summary>End of July and August 2022</summary>
+
 | Day | Task Id | Task                                                                                                                            | Solution(s)                                                                                                                   |
 |-----|---------|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | 1   | 242     | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | [Anagram](src/main/java/day_001/Anagram.java)                                                                                 |
@@ -35,3 +42,4 @@
 | 33  | 200     | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                           | [NumberOfIslands](src/main/java/day_033/NumberOfIslands.java)                                                                 |
 | 34  | 48      | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                     | [RotateImage](src/main/java/day_034/RotateImage.java)                                                                         |
 | 35  | 417     | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)                                       | [PacificAtlanticWaterFlow](src/main/java/day_035/PacificAtlanticWaterFlow.java)                                               |
+</details>
