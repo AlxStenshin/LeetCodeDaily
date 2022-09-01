@@ -43,3 +43,11 @@
 | 34  | 48      | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                     | [RotateImage](src/main/java/day_034/RotateImage.java)                                                                         |
 | 35  | 417     | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)                                       | [PacificAtlanticWaterFlow](src/main/java/day_035/PacificAtlanticWaterFlow.java)                                               |
 </details>
+
+<details>
+  <summary>September 2022</summary>
+
+| Day | Task Id | Task                                                                                              | Solution(s)                                                                         |
+|-----|---------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| 36  | 1448    | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [CountGoodNodesInBinaryTree](src/main/java/day_036/CountGoodNodesInBinaryTree.java) |
+</details>
