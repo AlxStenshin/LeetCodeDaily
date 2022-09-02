@@ -47,7 +47,10 @@
 <details>
   <summary>September 2022</summary>
 
-| Day | Task Id | Task                                                                                              | Solution(s)                                                                         |
-|-----|---------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| 36  | 1448    | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [CountGoodNodesInBinaryTree](src/main/java/day_036/CountGoodNodesInBinaryTree.java) |
+
+| Day | Task Id | Task                                                                                                | Solution(s)                                                                           |
+|-----|---------|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| 36  | 1448    | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)   | [CountGoodNodesInBinaryTree](src/main/java/day_036/CountGoodNodesInBinaryTree.java)   |
+| 37  | 637     | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [AverageOfLevelsInBinaryTree](src/main/java/day_037/AverageOfLevelsInBinaryTree.java) |
+
 </details>
