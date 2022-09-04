@@ -53,5 +53,6 @@
 | 36  | 1448    | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)   | [CountGoodNodesInBinaryTree](src/main/java/day_036/CountGoodNodesInBinaryTree.java)   |
 | 37  | 637     | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [AverageOfLevelsInBinaryTree](src/main/java/day_037/AverageOfLevelsInBinaryTree.java) |
 | 38  | 967     | [Numbers With Same Consecutive Difference](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [NumbersWithSameConsecutiveDifferences](src/main/java/day_038/NumbersWithSameConsecutiveDifferences.java) |
+| 39  | 978     | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [VerticalOrderTraversalOfBinaryTree](src/main/java/day_039/VerticalOrderTraversalOfBinaryTree.java) |
 
 </details>
