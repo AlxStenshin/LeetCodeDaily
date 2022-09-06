@@ -55,5 +55,6 @@
 | 38  | 967     | [Numbers With Same Consecutive Difference](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)  | [NumbersWithSameConsecutiveDifferences](src/main/java/day_038/NumbersWithSameConsecutiveDifferences.java) |
 | 39  | 978     | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [VerticalOrderTraversalOfBinaryTree](src/main/java/day_039/VerticalOrderTraversalOfBinaryTree.java)       |
 | 40  | 429     | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)                   | [NaryTreeLevelOrderTraversal](src/main/java/day_040/NaryTreeLevelOrderTraversal.java)                     |
+| 41  | 814     | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)                                             | [BinaryTreePruning](src/main/java/day_041/BinaryTreePruning.java)                                         |
 
 </details>
