@@ -57,5 +57,6 @@
 | 40  | 429     | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)                   | [NaryTreeLevelOrderTraversal](src/main/java/day_040/NaryTreeLevelOrderTraversal.java)                     |
 | 41  | 814     | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)                                             | [BinaryTreePruning](src/main/java/day_041/BinaryTreePruning.java)                                         |
 | 42  | 606     | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)                 | [ConstructStringFromBinaryTree](src/main/java/day_042/ConstructStringFromBinaryTree.java)                 |
+| 43  | 94      | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                         | [ConstructStringFromBinaryTree](src/main/java/day_043/BinaryTreeInorderTraversal.java)                    |
 
 </details>
