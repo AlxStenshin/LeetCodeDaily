@@ -59,6 +59,7 @@
 | 42  | 606     | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)                 | [ConstructStringFromBinaryTree](src/main/java/day_042/ConstructStringFromBinaryTree.java)                 |
 | 43  | 94      | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                         | [ConstructStringFromBinaryTree](src/main/java/day_043/BinaryTreeInorderTraversal.java)                    |
 | 44  | 1996    | [The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | [TheNumberOfWeakCharactersInTheGame](src/main/java/day_044/TheNumberOfWeakCharactersInTheGame.java)       |
-| 45  | 188    | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [BestTimeToBuyAndSellStock4](src/main/java/day_045/BestTimeToBuyAndSellStock4.java)       |
+| 45  | 188     | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [BestTimeToBuyAndSellStock4](src/main/java/day_045/BestTimeToBuyAndSellStock4.java)       |
+| 46  | 1383    | [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/) | [MaximumPerformanceOfATeam](src/main/java/day_046/MaximumPerformanceOfATeam.java)       |
 
 </details>
