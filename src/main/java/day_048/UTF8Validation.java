@@ -27,9 +27,7 @@ public class UTF8Validation {
     public boolean validUtf8(int[] data) {
         int count = 0;
 
-        for (int i = 0; i < data.length; i++) {
-            int currentByte = data[i];
-
+        for (int currentByte : data) {
             if (count == 0) {
                 if (currentByte >> 5 == 0b110)
                     count = 1;
@@ -39,9 +37,11 @@ public class UTF8Validation {
                     count = 3;
                 else if (currentByte >> 7 != 0)
                     return false;
-            }
-            else if (currentByte >> 6 != 0b10)
+            } else {
+                if (currentByte >> 6 != 0b10)
+                    return false;
                 count--;
+            }
         }
         return count == 0;
     }

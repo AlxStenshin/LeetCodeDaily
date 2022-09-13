@@ -16,4 +16,9 @@ class UTF8ValidationTest {
         assertFalse(new UTF8Validation().validUtf8(new int[]{235, 140, 4}));
     }
 
+    @Test
+    void shouldAlsoReturnTrue() {
+        assertTrue(new UTF8Validation().validUtf8(new int[]{230, 136, 145}));
+    }
+
 }
