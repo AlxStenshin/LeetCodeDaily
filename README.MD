@@ -63,5 +63,6 @@
 | 46  | 1383    | [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)                         | [MaximumPerformanceOfATeam](src/main/java/day_046/MaximumPerformanceOfATeam.java)                         |
 | 47  | 948     | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)                                                         | [ BagOfTokens](src/main/java/day_047/BagOfTokens.java)                                                    |
 | 48  | 393     | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)                                                   | [UTF8Validation](src/main/java/day_048/UTF8Validation.java)                                               |
+| 49  | 1457    | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | [PseudoPalindromicPathsInBinaryTree](src/main/java/day_049/PseudoPalindromicPathsInBinaryTree.java)       |
 
 </details>
