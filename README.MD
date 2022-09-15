@@ -64,5 +64,6 @@
 | 47  | 948     | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)                                                         | [ BagOfTokens](src/main/java/day_047/BagOfTokens.java)                                                    |
 | 48  | 393     | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)                                                   | [UTF8Validation](src/main/java/day_048/UTF8Validation.java)                                               |
 | 49  | 1457    | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | [PseudoPalindromicPathsInBinaryTree](src/main/java/day_049/PseudoPalindromicPathsInBinaryTree.java)       |
+| 50  | 2007    | [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/)       | [FindOriginalArrayFromDoubledArray](src/main/java/day_050/FindOriginalArrayFromDoubledArray.java)         |
 
 </details>
