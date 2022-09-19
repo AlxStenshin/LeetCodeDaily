@@ -66,7 +66,8 @@
 | 49  | 1457    | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)                             | [PseudoPalindromicPathsInBinaryTree](src/main/java/day_049/PseudoPalindromicPathsInBinaryTree.java)                                 |
 | 50  | 2007    | [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/)                                   | [FindOriginalArrayFromDoubledArray](src/main/java/day_050/FindOriginalArrayFromDoubledArray.java)                                   |
 | 51  | 1770    | [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) | [MaximumScoreFromPerformingMultiplicationOperations](src/main/java/day_051/MaximumScoreFromPerformingMultiplicationOperations.java) |
-| 52  | 336     | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [PalindromePairs](src/main/java/day_052/PalindromePairs.java) |
-| 53  | 42     | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [TrappingRainWater](src/main/java/day_053/TrappingRainWater.java) |
+| 52  | 336     | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)                                                                               | [PalindromePairs](src/main/java/day_052/PalindromePairs.java)                                                                       |
+| 53  | 42      | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                                         | [TrappingRainWater](src/main/java/day_053/TrappingRainWater.java)                                                                   |
+| 54  | 609     | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)                                                     | [FindDuplicateFileInSystem](src/main/java/day_054/FindDuplicateFileInSystem.java)                                                   |
 
 </details>
