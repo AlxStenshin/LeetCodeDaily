@@ -69,5 +69,6 @@
 | 52  | 336     | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)                                                                               | [PalindromePairs](src/main/java/day_052/PalindromePairs.java)                                                                       |
 | 53  | 42      | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                                         | [TrappingRainWater](src/main/java/day_053/TrappingRainWater.java)                                                                   |
 | 54  | 609     | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)                                                     | [FindDuplicateFileInSystem](src/main/java/day_054/FindDuplicateFileInSystem.java)                                                   |
+| 55  | 718     | [ximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)                                           | [MaximumLengthOfRepeatedSubarray](src/main/java/day_055/MaximumLengthOfRepeatedSubarray.java)                                       |
 
 </details>
