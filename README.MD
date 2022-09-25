@@ -74,5 +74,6 @@
 | 57  | 557     | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)                                                     | [ReverseWordsInStringIII](src/main/java/day_057/ReverseWordsInStringIII.java)                                                       |
 | 58  | 1680    | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)                         | [ConcatenationPfConsecutiveBinaryNumbers](src/main/java/day_058/ConcatenationPfConsecutiveBinaryNumbers.java)                       |
 | 59  | 113    | [Path Sum II](https://leetcode.com/problems/path-sum-ii/)                         | [PathSumII](src/main/java/day_059/PathSumII.java)                       |
+| 60  | 622    | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)                         | [MyCircularQueue](src/main/java/day_060/MyCircularQueue.java)                       |
 
 </details>
