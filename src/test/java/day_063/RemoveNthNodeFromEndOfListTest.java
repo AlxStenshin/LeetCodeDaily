@@ -19,9 +19,8 @@ class RemoveNthNodeFromEndOfListTest {
     @Test
     void shouldRemoveTheOnlyElement() {
         ListNode input = new ListNode(1);
-        ListNode expected = new ListNode();
 
-        assertEquals(expected, new RemoveNthNodeFromEndOfList().removeNthFromEnd(input, 1));
+        assertNull(new RemoveNthNodeFromEndOfList().removeNthFromEnd(input, 1));
     }
 
     @Test
