@@ -79,5 +79,6 @@
 | 63  | 19      | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                                               | [RemoveNthNodeFromEndOfList](src/main/java/day_063/RemoveNthNodeFromEndOfList.java)                                                 |
 | 64  | 658     | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)                                                                 | [FindKClosesElements](src/main/java/day_064/FindKClosesElements.java)                                                               |
 | 65  | 218     | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)                                                                         | [TheSkylineProblem](src/main/java/day_065/TheSkylineProblem.java)                                                                   |
+| 65  |  91     | [Decode Ways](https://leetcode.com/problems/decode-ways/)                                                                         | [DecodeWays](src/main/java/day_066/DecodeWays.java)                                                                   |
 
 </details>
