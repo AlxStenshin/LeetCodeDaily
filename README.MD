@@ -1,9 +1,10 @@
 
 <p align="center">
     <img src="https://leetcode.com/static/images/badges/2022/gif/2022-08.gif" alt="Logo" height="80">
+    <img src="https://leetcode.com/static/images/badges/2022/gif/2022-09.gif" alt="Logo" height="80">
 
 <details>
-  <summary>End of July and August 2022</summary>
+  <summary>July 2022</summary>
 
 | Day | Task Id | Task                                                                                                                            | Solution(s)                                                                                                                   |
 |-----|---------|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
@@ -11,6 +12,14 @@
 | 2   | 890     | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)                                             | [FindAndReplacePattern](src/main/java/day_002/FindAndReplacePattern.java)                                                     |
 | 3   | 916     | [Word Subsets](https://leetcode.com/problems/word-subsets/)                                                                     | [WordSubsets](src/main/java/day_003/WordSubsets.java) <br/> [WordSubsetsArrays](src/main/java/day_003/WordSubsetsArrays.java) |
 | 4   | 307     | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)                                             | [NumArray](src/main/java/day_004/NumArray.java)                                                                               |
+
+</details>
+
+<details>
+  <summary>August 2022</summary>
+
+| Day | Task Id | Task                                                                                                                            | Solution(s)                                                                                                                   |
+|-----|---------|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | 5   | 062     | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                     | [UniquePaths](src/main/java/day_005/UniquePaths.java)                                                                         |
 | 6   | 378     | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)               | [KthSmallest](src/main/java/day_006/KthSmallest.java)                                                                         |
 | 7   | 729     | [My Calendar I](https://leetcode.com/problems/my-calendar-i/)                                                                   | [MyCalendar](src/main/java/day_007/MyCalendar.java) <br/> [MyCalendar_Arrays](src/main/java/day_007/MyCalendar_Arrays.java)   |
@@ -42,6 +51,7 @@
 | 33  | 200     | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                           | [NumberOfIslands](src/main/java/day_033/NumberOfIslands.java)                                                                 |
 | 34  | 48      | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                     | [RotateImage](src/main/java/day_034/RotateImage.java)                                                                         |
 | 35  | 417     | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)                                       | [PacificAtlanticWaterFlow](src/main/java/day_035/PacificAtlanticWaterFlow.java)                                               |
+
 </details>
 
 <details>
@@ -79,7 +89,16 @@
 | 63  | 19      | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                                               | [RemoveNthNodeFromEndOfList](src/main/java/day_063/RemoveNthNodeFromEndOfList.java)                                                 |
 | 64  | 658     | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)                                                                 | [FindKClosesElements](src/main/java/day_064/FindKClosesElements.java)                                                               |
 | 65  | 218     | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)                                                                         | [TheSkylineProblem](src/main/java/day_065/TheSkylineProblem.java)                                                                   |
-| 66  | 91      | [Decode Ways](https://leetcode.com/problems/decode-ways/)                                                                         | [DecodeWays](src/main/java/day_066/DecodeWays.java)                                                                   |
-| 67  | 1155    | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum)                                                                         | [NumberOfDiceRollsWithTargetSum](src/main/java/day_067/NumberOfDiceRollsWithTargetSum.java)                                                                   |
+
+</details>
+
+<details>
+  <summary>October 2022</summary>
+
+| Day | Task Id | Task                                                                                                       | Solution(s)                                                                                 |
+|-----|---------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| 66  | 91      | [Decode Ways](https://leetcode.com/problems/decode-ways/)                                                  | [DecodeWays](src/main/java/day_066/DecodeWays.java)                                         |
+| 67  | 1155    | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum) | [NumberOfDiceRollsWithTargetSum](src/main/java/day_067/NumberOfDiceRollsWithTargetSum.java) |
+| 68  | 1578    | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful)     | [MinimumTimeToMakeRopeColorful](src/main/java/day_067/MinimumTimeToMakeRopeColorful.java)   |
 
 </details>
