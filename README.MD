@@ -95,12 +95,13 @@
 <details>
   <summary>October 2022</summary>
 
-| Day | Task Id | Task                                                                                                       | Solution(s)                                                                                 |
-|-----|---------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| 66  | 91      | [Decode Ways](https://leetcode.com/problems/decode-ways/)                                                  | [DecodeWays](src/main/java/day_066/DecodeWays.java)                                         |
-| 67  | 1155    | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum) | [NumberOfDiceRollsWithTargetSum](src/main/java/day_067/NumberOfDiceRollsWithTargetSum.java) |
-| 68  | 1578    | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful)     | [MinimumTimeToMakeRopeColorful](src/main/java/day_068/MinimumTimeToMakeRopeColorful.java)   |
-| 69  | 112     | [Path Sum](https://https://leetcode.com/problems/path-sum/)                                                | [PathSum](src/main/java/day_069/PathSum.java)                                               |
-| 70  | 623     | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)                                  | [AddOneTowToTree](src/main/java/day_070/AddOneTowToTree.java)                               |
+| Day | Task Id | Task                                                                                                       | Solution(s)                                                                                                                       |
+|-----|---------|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| 66  | 91      | [Decode Ways](https://leetcode.com/problems/decode-ways/)                                                  | [DecodeWays](src/main/java/day_066/DecodeWays.java)                                                                               |
+| 67  | 1155    | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum) | [NumberOfDiceRollsWithTargetSum](src/main/java/day_067/NumberOfDiceRollsWithTargetSum.java)                                       |
+| 68  | 1578    | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful)     | [MinimumTimeToMakeRopeColorful](src/main/java/day_068/MinimumTimeToMakeRopeColorful.java)                                         |
+| 69  | 112     | [Path Sum](https://https://leetcode.com/problems/path-sum/)                                                | [PathSum](src/main/java/day_069/PathSum.java)                                                                                     |
+| 70  | 623     | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)                                  | [AddOneTowToTree](src/main/java/day_070/AddOneTowToTree.java)                                                                     |
+| 70  | 981     | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                    | [TimeMapHashMaps](src/main/java/day_071/TimeMapHashMaps.java)  <br/>  [TimeMapTreeMap](src/main/java/day_071/TimeMapTreeMap.java) |
 
 </details>
