@@ -104,5 +104,6 @@
 | 70  | 623     | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)                                  | [AddOneTowToTree](src/main/java/day_070/AddOneTowToTree.java)                                                                     |
 | 71  | 981     | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                    | [TimeMapHashMaps](src/main/java/day_071/TimeMapHashMaps.java)  <br/>  [TimeMapTreeMap](src/main/java/day_071/TimeMapTreeMap.java) |
 | 72  | 732     | [My Calendar III](https://leetcode.com/problems/my-calndar-iii/)                                           | [MyCalendarIII](src/main/java/day_072/MyCalendarThree.java)                                                                       |
+| 73  | 16      | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)                                           | [ThreeSumClosest](src/main/java/day_073/ThreeSumClosest.java)                                                                       |
 
 </details>
