@@ -106,5 +106,6 @@
 | 72  | 732     | [My Calendar III](https://leetcode.com/problems/my-calndar-iii/)                                           | [MyCalendarIII](src/main/java/day_072/MyCalendarThree.java)                                                                       |
 | 73  | 16      | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)                                                | [ThreeSumClosest](src/main/java/day_073/ThreeSumClosest.java)                                                                     |
 | 74  | 653     | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)                    | [TwoSumFour](src/main/java/day_074/TwoSumFour.java)                                                                               |
+| 75  | 1328    | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)                                    | [BreakPalindrome](src/main/java/day_075/BreakPalindrome.java)                                                                     |
 
 </details>
