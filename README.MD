@@ -109,5 +109,6 @@
 | 75  | 1328    | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)                                    | [BreakPalindrome](src/main/java/day_075/BreakPalindrome.java)                                                                     |
 | 76  | 334     | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)            | [IncreasingTripletSubsequence](src/main/java/day_076/IncreasingTripletSubsequence.java)                                           |
 | 77  | 976     | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle)                     | [LargestPerimeterTriangle](src/main/java/day_077/LargestPerimeterTriangle.java)                                                   |
+| 78  | 237     | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)                | [DeleteNodeInALinkedList](src/main/java/day_078/DeleteNodeInALinkedList.java)                                                     |
 
 </details>
