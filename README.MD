@@ -111,5 +111,6 @@
 | 77  | 976     | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle)                            | [LargestPerimeterTriangle](src/main/java/day_077/LargestPerimeterTriangle.java)                                                   |
 | 78  | 237     | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)                       | [DeleteNodeInALinkedList](src/main/java/day_078/DeleteNodeInALinkedList.java)                                                     |
 | 79  | 2095    | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [DeleteTheMiddleNodeOfALInkedList](src/main/java/day_079/DeleteTheMiddleNodeOfALInkedList.java)                                   |
+| 80  | 1531    | [String Compression II](https://leetcode.com/problems/string-compression-ii/)                                     | [StringCompressionTwo](src/main/java/day_080/StringCompressionTwo.java)                                                           |
 
 </details>
