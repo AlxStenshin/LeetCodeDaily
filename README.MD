@@ -112,5 +112,6 @@
 | 78  | 237     | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)                       | [DeleteNodeInALinkedList](src/main/java/day_078/DeleteNodeInALinkedList.java)                                                     |
 | 79  | 2095    | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [DeleteTheMiddleNodeOfALInkedList](src/main/java/day_079/DeleteTheMiddleNodeOfALInkedList.java)                                   |
 | 80  | 1531    | [String Compression II](https://leetcode.com/problems/string-compression-ii/)                                     | [StringCompressionTwo](src/main/java/day_080/StringCompressionTwo.java)                                                           |
+| 81  | 1335    | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)       | [MinimumDifficultyOfAJobSchedule](src/main/java/day_081/MinimumDifficultyOfAJobSchedule.java)                                     |
 
 </details>
