@@ -113,5 +113,6 @@
 | 79  | 2095    | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [DeleteTheMiddleNodeOfALInkedList](src/main/java/day_079/DeleteTheMiddleNodeOfALInkedList.java)                                   |
 | 80  | 1531    | [String Compression II](https://leetcode.com/problems/string-compression-ii/)                                     | [StringCompressionTwo](src/main/java/day_080/StringCompressionTwo.java)                                                           |
 | 81  | 1335    | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)       | [MinimumDifficultyOfAJobSchedule](src/main/java/day_081/MinimumDifficultyOfAJobSchedule.java)                                     |
+| 82  | 1832    | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)               | [CheckIfTheSentenceIsPangram](src/main/java/day_082/CheckIfTheSentenceIsPangram.java)                                             |
 
 </details>
