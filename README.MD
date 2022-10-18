@@ -114,5 +114,6 @@
 | 80  | 1531    | [String Compression II](https://leetcode.com/problems/string-compression-ii/)                                     | [StringCompressionTwo](src/main/java/day_080/StringCompressionTwo.java)                                                           |
 | 81  | 1335    | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)       | [MinimumDifficultyOfAJobSchedule](src/main/java/day_081/MinimumDifficultyOfAJobSchedule.java)                                     |
 | 82  | 1832    | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)               | [CheckIfTheSentenceIsPangram](src/main/java/day_082/CheckIfTheSentenceIsPangram.java)                                             |
+| 83  | 38      | [Count And Say](https://leetcode.com/problems/count-and-say/)                                                     | [CountAndSay](src/main/java/day_083/CountAndSay.java)                                                                             |
 
 </details>
