@@ -1,5 +1,16 @@
 package day_087;
 
+/**
+ * <a href = "https://leetcode.com/problems/minimum-window-substring/">
+ * 76. Minimum Window Substring </a>
+ * <p>
+ * Given two strings s and t of lengths m and n respectively, return the minimum window substring of s such that every character in t (including duplicates) is included in the window. If there is no such substring, return the empty string "".
+ * <p>
+ * The testcases will be generated such that the answer is unique.
+ * <p>
+ * A substring is a contiguous sequence of characters within the string.
+ */
+
 public class MinimumWindowSubstring {
     public String minWindow(String s, String t) {
         int[] count = new int[128];
