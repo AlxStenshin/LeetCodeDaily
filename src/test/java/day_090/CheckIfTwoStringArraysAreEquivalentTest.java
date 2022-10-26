@@ -20,7 +20,7 @@ class CheckIfTwoStringArraysAreEquivalentTest {
 
     @Test
     void shouldReturnFalse() {
-        assertTrue(new CheckIfTwoStringArraysAreEquivalent().arrayStringsAreEqual(
+        assertFalse(new CheckIfTwoStringArraysAreEquivalent().arrayStringsAreEqual(
                 new String[]{"a", "cb"}, new String[]{"ab", "c"}));
     }
 
