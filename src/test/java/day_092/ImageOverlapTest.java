@@ -1,10 +1,11 @@
 package day_092;
 
 import org.junit.jupiter.api.Test;
+import util.TimeSensitiveTest;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class ImageOverlapTest {
+class ImageOverlapTest extends TimeSensitiveTest {
 
     @Test
     void shouldReturnThree() {
