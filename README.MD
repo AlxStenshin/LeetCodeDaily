@@ -126,5 +126,6 @@
 | 92  | 835     | [Image Overlap](https://leetcode.com/problems/image-overlap/)                                                                                                   | [ImageOverlap](src/main/java/day_092/ImageOverlap.java)                                                                                     |
 | 93  | 49      | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                                                 | [GroupAnagrams](src/main/java/day_093/GroupAnagrams.java)                                                                                   |
 | 94  | 2136    | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)                                                       | [EarliestPossibleDayOfFullBloom](src/main/java/day_094/EarliestPossibleDayOfFullBloom.java)                                                 |
+| 95  | 1293    | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)                                                       | [ShortestPathInAGridWithObstaclesElimination](src/main/java/day_095/ShortestPathInAGridWithObstaclesElimination.java)                                                 |
 
 </details>
