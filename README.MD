@@ -2,6 +2,7 @@
 <p style="text-align: center;">
     <img src="https://leetcode.com/static/images/badges/2022/gif/2022-08.gif" alt="Logo" height="80">
     <img src="https://leetcode.com/static/images/badges/2022/gif/2022-09.gif" alt="Logo" height="80">
+    <img src="https://leetcode.com/static/images/badges/2022/gif/2022-10.gif" alt="Logo" height="80">
 
 <details>
   <summary>July 2022</summary>
@@ -126,6 +127,7 @@
 | 92  | 835     | [Image Overlap](https://leetcode.com/problems/image-overlap/)                                                                                                   | [ImageOverlap](src/main/java/day_092/ImageOverlap.java)                                                                                     |
 | 93  | 49      | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                                                 | [GroupAnagrams](src/main/java/day_093/GroupAnagrams.java)                                                                                   |
 | 94  | 2136    | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)                                                       | [EarliestPossibleDayOfFullBloom](src/main/java/day_094/EarliestPossibleDayOfFullBloom.java)                                                 |
-| 95  | 1293    | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)                                                       | [ShortestPathInAGridWithObstaclesElimination](src/main/java/day_095/ShortestPathInAGridWithObstaclesElimination.java)                                                 |
+| 95  | 1293    | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)                         | [ShortestPathInAGridWithObstaclesElimination](src/main/java/day_095/ShortestPathInAGridWithObstaclesElimination.java)                       |
+| 96  | 766     | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)                                                                                               | [Toeplitz Matrix](src/main/java/day_096/ToeplitzMatrix.java)                                                                                |
 
 </details>
