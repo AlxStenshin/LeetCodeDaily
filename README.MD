@@ -128,6 +128,15 @@
 | 93  | 49      | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                                                 | [GroupAnagrams](src/main/java/day_093/GroupAnagrams.java)                                                                                   |
 | 94  | 2136    | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)                                                       | [EarliestPossibleDayOfFullBloom](src/main/java/day_094/EarliestPossibleDayOfFullBloom.java)                                                 |
 | 95  | 1293    | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)                         | [ShortestPathInAGridWithObstaclesElimination](src/main/java/day_095/ShortestPathInAGridWithObstaclesElimination.java)                       |
-| 96  | 766     | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)                                                                                               | [Toeplitz Matrix](src/main/java/day_096/ToeplitzMatrix.java)                                                                                |
+| 96  | 766     | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)                                                                                               | [ToeplitzMatrix](src/main/java/day_096/ToeplitzMatrix.java)                                                                                 |
+</details>
+
+
+<details>
+  <summary>October 2022</summary>
+
+| Day | Task Id | Task                                                                                | Solution(s)                                                             |
+|-----|---------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| 97  | 1706    | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | [WhereWillTheBallFall](src/main/java/day_097/WhereWillTheBallFall.java) |
 
 </details>
