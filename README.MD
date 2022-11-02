@@ -135,8 +135,9 @@
 <details>
   <summary>October 2022</summary>
 
-| Day | Task Id | Task                                                                                | Solution(s)                                                             |
-|-----|---------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| 97  | 1706    | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | [WhereWillTheBallFall](src/main/java/day_097/WhereWillTheBallFall.java) |
+| Day | Task Id | Task                                                                                | Solution(s)                                                                 |
+|-----|---------|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| 97  | 1706    | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | [WhereWillTheBallFall](src/main/java/day_097/WhereWillTheBallFall.java)     |
+| 98  | 433     | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | [MinimumGeneticMutation](src/main/java/day_098/MinimumGeneticMutation.java) |
 
 </details>
