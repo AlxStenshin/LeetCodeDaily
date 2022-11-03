@@ -17,7 +17,6 @@ import java.util.HashMap;
  * Given the two gene strings start and end and the gene bank bank, return the minimum number of mutations needed to mutate from start to end. If there is no such a mutation, return -1.
  * <p>
  * Note that the starting point is assumed to be valid, so it might not be included in the bank.
-
  */
 
 public class MinimumGeneticMutation {
