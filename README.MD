@@ -133,7 +133,7 @@
 
 
 <details>
-  <summary>October 2022</summary>
+  <summary>November 2022</summary>
 
 | Day | Task Id | Task                                                                                                                                        | Solution(s)                                                                                                                 |
 |-----|---------|---------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
@@ -141,5 +141,6 @@
 | 98  | 433     | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)                                                         | [MinimumGeneticMutation](src/main/java/day_098/MinimumGeneticMutation.java)                                                 |
 | 99  | 2131    | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | [LongestPalindromeByConcatenatingTwoLetterWords](src/main/java/day_099/LongestPalindromeByConcatenatingTwoLetterWords.java) |
 | 100  | 345    | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [ReverseVowelsOfAString](src/main/java/day_100/ReverseVowelsOfAString.java) |
+| 101  | 212    | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [WordSearchTwo](src/main/java/day_101/WordSearchTwo.java) |
 
 </details>
