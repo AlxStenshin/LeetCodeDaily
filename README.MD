@@ -144,5 +144,6 @@
 | 101 | 212     | [Word Search II](https://leetcode.com/problems/word-search-ii/)                                                                             | [WordSearchTwo](src/main/java/day_101/WordSearchTwo.java)                                                                   |
 | 102 | 899     | [Orderly Queue](https://leetcode.com/problems/orderly-queue/)                                                                               | [OrderlyQueue](src/main/java/day_102/OrderlyQueue.java)                                                                     |
 | 103 | 1323    | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)                                                                       | [Maximum69Number](src/main/java/day_103/Maximum69Number.java)                                                               |
+| 104 | 1544    | [Make The String Great](https://leetcode.com/problems/make-the-string-great/)                                                               | [MakeTheStringGreat](src/main/java/day_104/MakeTheStringGreat.java)                                                         |
 
 </details>
