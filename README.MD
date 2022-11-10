@@ -146,5 +146,6 @@
 | 103 | 1323    | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)                                                                       | [Maximum69Number](src/main/java/day_103/Maximum69Number.java)                                                               |
 | 104 | 1544    | [Make The String Great](https://leetcode.com/problems/make-the-string-great/)                                                               | [MakeTheStringGreat](src/main/java/day_104/MakeTheStringGreat.java)                                                         |
 | 105 | 901     | [Online Stock Span](https://leetcode.com/problems/online-stock-span/)                                                                       | [StockSpanner](src/main/java/day_105/StockSpanner.java)                                                                     |
+| 106 | 1047    | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)                         | [RemoveAllAdjacentDuplicatesInString](src/main/java/day_106/RemoveAllAdjacentDuplicatesInString.java)                       |
 
 </details>
