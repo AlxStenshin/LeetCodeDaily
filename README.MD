@@ -152,5 +152,6 @@
 | 109 | 151     | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                                       | [ReverseWordsInAString](src/main/java/day_109/ReverseWordsInAString.java)                                                   |
 | 110 | 947     | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)                   | [MostStonesRemovedWithSameRowOrColumn](src/main/java/day_110/MostStonesRemovedWithSameRowOrColumn.java)                     |
 | 111 | 222     | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)                                                       | [CountCompleteTreeNodes](src/main/java/day_111/CountCompleteTreeNodes.java)                                                 |
+| 112 | 374     | [Guess Number Higher or Lower ](https://leetcode.com/problems/guess-number-higher-or-lower/)                                                | [GuessNumberHigherOrLower](src/main/java/day_112/GuessNumberHigherOrLower.java)                                             |
 
 </details>
