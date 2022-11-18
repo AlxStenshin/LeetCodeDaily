@@ -2,6 +2,7 @@ package util;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.TestInfo;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
@@ -17,9 +18,10 @@ public class TimeSensitiveTest {
 
     @AfterEach
 
-    void stopTimer() {
+    void stopTimer(TestInfo testInfo) {
         long elapsedTime = System.nanoTime() - startTime;
-        System.out.println("Test Execution Took " + elapsedTime / 1_000_000 + " ms.");
+        System.out.println(testInfo.getTestClass() + testInfo.getDisplayName() +
+                " Execution Took " + elapsedTime / 1_000_000 + " ms.");
         assertTrue(elapsedTime / 1_000_000 <= maxAllowedTime);
     }
 

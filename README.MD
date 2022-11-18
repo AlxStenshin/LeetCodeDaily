@@ -154,5 +154,6 @@
 | 111 | 222     | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)                                                       | [CountCompleteTreeNodes](src/main/java/day_111/CountCompleteTreeNodes.java)                                                 |
 | 112 | 374     | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                                                 | [GuessNumberHigherOrLower](src/main/java/day_112/GuessNumberHigherOrLower.java)                                             |
 | 113 | 223     | [Rectangle Area](https://leetcode.com/problems/rectangle-area/)                                                                             | [RectangleArea](src/main/java/day_113/RectangleArea.java)                                                                   |
+| 114 | 263     | [Ugly Number](https://leetcode.com/problems/ugly-number/)                                                                                   | [UglyNumber](src/main/java/day_114/UglyNumber.java)                                                                         |
 
 </details>
