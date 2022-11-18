@@ -14,7 +14,7 @@ class RemoveAllAdjacentDuplicatesInStringTest extends TimeSensitiveTest {
     }
 
     public RemoveAllAdjacentDuplicatesInStringTest() {
-        this.setMaxAllowedTime(10);
+        this.setMaxAllowedTime(30);
     }
 
     @Test
