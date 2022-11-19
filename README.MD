@@ -155,5 +155,6 @@
 | 112 | 374     | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                                                 | [GuessNumberHigherOrLower](src/main/java/day_112/GuessNumberHigherOrLower.java)                                             |
 | 113 | 223     | [Rectangle Area](https://leetcode.com/problems/rectangle-area/)                                                                             | [RectangleArea](src/main/java/day_113/RectangleArea.java)                                                                   |
 | 114 | 263     | [Ugly Number](https://leetcode.com/problems/ugly-number/)                                                                                   | [UglyNumber](src/main/java/day_114/UglyNumber.java)                                                                         |
+| 115 | 587     | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/)                                                                           | [ErectTheFence](src/main/java/day_115/ErectTheFence.java)                                                                   |
 
 </details>
