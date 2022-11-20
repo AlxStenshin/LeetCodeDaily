@@ -156,5 +156,6 @@
 | 113 | 223     | [Rectangle Area](https://leetcode.com/problems/rectangle-area/)                                                                             | [RectangleArea](src/main/java/day_113/RectangleArea.java)                                                                   |
 | 114 | 263     | [Ugly Number](https://leetcode.com/problems/ugly-number/)                                                                                   | [UglyNumber](src/main/java/day_114/UglyNumber.java)                                                                         |
 | 115 | 587     | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/)                                                                           | [ErectTheFence](src/main/java/day_115/ErectTheFence.java)                                                                   |
+| 116 | 224     | [Basic Calculator](https://leetcode.com/problems/basic-calculator/)                                                                         | [BasicCalculator](src/main/java/day_116/BasicCalculator.java)                                                                   |
 
 </details>
