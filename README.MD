@@ -158,5 +158,6 @@
 | 115 | 587     | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/)                                                                           | [ErectTheFence](src/main/java/day_115/ErectTheFence.java)                                                                   |
 | 116 | 224     | [Basic Calculator](https://leetcode.com/problems/basic-calculator/)                                                                         | [BasicCalculator](src/main/java/day_116/BasicCalculator.java)                                                               |
 | 117 | 1926    | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)                                     | [NearestExitFromEntranceInMaze](src/main/java/day_117/NearestExitFromEntranceInMaze.java)                                   |
+| 118 | 279     | [Perfect Squares](https://leetcode.com/problems/perfect-squares/)                                                                           | [PerfectSquares](src/main/java/day_118/PerfectSquares.java)                                                                 |
 
 </details>
