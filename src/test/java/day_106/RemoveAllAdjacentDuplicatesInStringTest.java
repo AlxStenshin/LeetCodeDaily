@@ -1,20 +1,14 @@
 package day_106;
 
-import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
-import util.TimeSensitiveTest;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class RemoveAllAdjacentDuplicatesInStringTest extends TimeSensitiveTest {
+class RemoveAllAdjacentDuplicatesInStringTest {
 
     String veryLongString; {
         StringBuilder builder = new StringBuilder("abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz");
         veryLongString = String.valueOf(builder.append(String.valueOf(builder).repeat(255)));
-    }
-
-    public RemoveAllAdjacentDuplicatesInStringTest() {
-        this.setMaxAllowedTime(30);
     }
 
     @Test
@@ -48,7 +42,6 @@ class RemoveAllAdjacentDuplicatesInStringTest extends TimeSensitiveTest {
     }
 
     @Test
-    @Disabled // Recursion solution is not suitable for this input
     void shouldReturnSameString() {
         assertEquals(veryLongString, new RemoveAllAdjacentDuplicatesInString().removeDuplicates(veryLongString));
     }
