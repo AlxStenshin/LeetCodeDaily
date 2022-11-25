@@ -161,5 +161,6 @@
 | 118 | 279     | [Perfect Squares](https://leetcode.com/problems/perfect-squares/)                                                                           | [PerfectSquares](src/main/java/day_118/PerfectSquares.java)                                                                 |
 | 119 | 36      | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                                 | [ValidSudoku](src/main/java/day_119/ValidSudoku.java)                                                                       |
 | 120 | 79      | [Word Search](https://leetcode.com/problems/word-search/)                                                                                   | [WordSearch](src/main/java/day_120/WordSearch.java)                                                                         |
+| 121 | 907     | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)                                                         | [SumOfSubarrayMinimums](src/main/java/day_121/SumOfSubarrayMinimums.java)                                                   |
 
 </details>
