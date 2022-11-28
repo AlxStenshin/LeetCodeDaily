@@ -164,5 +164,6 @@
 | 121 | 907     | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)                                                         | [SumOfSubarrayMinimums](src/main/java/day_121/SumOfSubarrayMinimums.java)                                                   |
 | 122 | 1235    | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)                                         | [MaximumProfitInJobScheduling](src/main/java/day_122/MaximumProfitInJobScheduling.java)                                     |
 | 123 | 446     | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)                                       | [ArithmeticSlicesSubsequence](src/main/java/day_123/ArithmeticSlicesSubsequence.java)                                       |
+| 124 | 2225    | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)                                 | [FindPlayersWithZeroOrOneLosses](src/main/java/day_124/FindPlayersWithZeroOrOneLosses.java)                                 |
 
 </details>
