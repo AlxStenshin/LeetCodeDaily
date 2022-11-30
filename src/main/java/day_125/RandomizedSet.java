@@ -50,6 +50,6 @@ public class RandomizedSet {
     }
 
     public int getRandom() {
-        return elementNums.get( random.nextInt(elementNums.size()) );
+        return elementNums.get(random.nextInt(elementNums.size()));
     }
 }

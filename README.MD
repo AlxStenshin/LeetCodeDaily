@@ -3,6 +3,7 @@
     <img src="https://leetcode.com/static/images/badges/2022/gif/2022-08.gif" alt="Logo" height="80">
     <img src="https://leetcode.com/static/images/badges/2022/gif/2022-09.gif" alt="Logo" height="80">
     <img src="https://leetcode.com/static/images/badges/2022/gif/2022-10.gif" alt="Logo" height="80">
+    <img src="https://leetcode.com/static/images/badges/2022/gif/2022-11.gif" alt="Logo" height="80">
 
 <details>
   <summary>July 2022</summary>
@@ -166,5 +167,15 @@
 | 123 | 446     | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)                                       | [ArithmeticSlicesSubsequence](src/main/java/day_123/ArithmeticSlicesSubsequence.java)                                       |
 | 124 | 2225    | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)                                 | [FindPlayersWithZeroOrOneLosses](src/main/java/day_124/FindPlayersWithZeroOrOneLosses.java)                                 |
 | 125 | 380     | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)                                                   | [RandomizedSet](src/main/java/day_125/RandomizedSet.java)                                                                   |
+| 126 | 1207    | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)                                                 | [UniqueNumberOfOccurrences](src/main/java/day_126/UniqueNumberOfOccurrences.java)                                           |
+
+</details>
+
+
+<details>
+  <summary>December 2022</summary>
+
+| Day | Task Id | Task                                                                                                                                        | Solution(s)                                                                                                                 |
+|-----|---------|---------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 
 </details>
