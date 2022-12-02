@@ -178,5 +178,6 @@
 | Day | Task Id | Task                                                                                                        | Solution(s)                                                                                   |
 |-----|---------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | 127 | 1704    | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [DetermineIfStringHalvesAreAlike](src/main/java/day_127/DetermineIfStringHalvesAreAlike.java) |
+| 128 | 1657    | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)     | [DetermineIfTwoStringsAreClose](src/main/java/day_128/DetermineIfTwoStringsAreClose.java)     |
 
 </details>
