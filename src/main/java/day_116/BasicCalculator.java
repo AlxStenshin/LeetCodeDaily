@@ -10,6 +10,7 @@ import java.util.Stack;
  * <p>
  * Note: You are not allowed to use any built-in function which evaluates strings as mathematical expressions, such as eval().
  */
+
 public class BasicCalculator {
     public int calculate(String s) {
         int len = s.length();
