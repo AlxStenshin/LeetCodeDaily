@@ -180,6 +180,7 @@
 | 127 | 1704    | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [DetermineIfStringHalvesAreAlike](src/main/java/day_127/DetermineIfStringHalvesAreAlike.java) |
 | 128 | 1657    | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)     | [DetermineIfTwoStringsAreClose](src/main/java/day_128/DetermineIfTwoStringsAreClose.java)     |
 | 129 | 451     | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                 | [SortCharactersByFrequency](src/main/java/day_129/SortCharactersByFrequency.java)             |
-| 129 | 2256    | [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)                     | [MinimumAverageDifference](src/main/java/day_130/MinimumAverageDifference.java)               |
+| 130 | 2256    | [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)                     | [MinimumAverageDifference](src/main/java/day_130/MinimumAverageDifference.java)               |
+| 131 | 876     | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                       | [MiddleOfTheLinkedList](src/main/java/day_131/MiddleOfTheLinkedList.java)                     |
 
 </details>
