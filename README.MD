@@ -183,5 +183,6 @@
 | 130 | 2256    | [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)                     | [MinimumAverageDifference](src/main/java/day_130/MinimumAverageDifference.java)               |
 | 131 | 876     | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                       | [MiddleOfTheLinkedList](src/main/java/day_131/MiddleOfTheLinkedList.java)                     |
 | 132 | 328     | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)                                 | [OddEvenLinkedList](src/main/java/day_132/OddEvenLinkedList.java)                             |
+| 133 | 938     | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                                         | [RangeSumOfBST](src/main/java/day_133/RangeSumOfBST.java)                                     |
 
 </details>
