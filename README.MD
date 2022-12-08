@@ -184,5 +184,6 @@
 | 131 | 876     | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                       | [MiddleOfTheLinkedList](src/main/java/day_131/MiddleOfTheLinkedList.java)                     |
 | 132 | 328     | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)                                 | [OddEvenLinkedList](src/main/java/day_132/OddEvenLinkedList.java)                             |
 | 133 | 938     | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                                         | [RangeSumOfBST](src/main/java/day_133/RangeSumOfBST.java)                                     |
+| 134 | 872     | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/)                         | [LeafSimilarTrees](src/main/java/day_134/LeafSimilarTrees.java)                               |
 
 </details>
