@@ -175,15 +175,16 @@
 <details>
   <summary>December 2022</summary>
 
-| Day | Task Id | Task                                                                                                        | Solution(s)                                                                                   |
-|-----|---------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| 127 | 1704    | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [DetermineIfStringHalvesAreAlike](src/main/java/day_127/DetermineIfStringHalvesAreAlike.java) |
-| 128 | 1657    | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)     | [DetermineIfTwoStringsAreClose](src/main/java/day_128/DetermineIfTwoStringsAreClose.java)     |
-| 129 | 451     | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                 | [SortCharactersByFrequency](src/main/java/day_129/SortCharactersByFrequency.java)             |
-| 130 | 2256    | [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)                     | [MinimumAverageDifference](src/main/java/day_130/MinimumAverageDifference.java)               |
-| 131 | 876     | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                       | [MiddleOfTheLinkedList](src/main/java/day_131/MiddleOfTheLinkedList.java)                     |
-| 132 | 328     | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)                                 | [OddEvenLinkedList](src/main/java/day_132/OddEvenLinkedList.java)                             |
-| 133 | 938     | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                                         | [RangeSumOfBST](src/main/java/day_133/RangeSumOfBST.java)                                     |
-| 134 | 872     | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/)                         | [LeafSimilarTrees](src/main/java/day_134/LeafSimilarTrees.java)                               |
+| Day | Task Id | Task                                                                                                                        | Solution(s)                                                                                                   |
+|-----|---------|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| 127 | 1704    | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)                 | [DetermineIfStringHalvesAreAlike](src/main/java/day_127/DetermineIfStringHalvesAreAlike.java)                 |
+| 128 | 1657    | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)                     | [DetermineIfTwoStringsAreClose](src/main/java/day_128/DetermineIfTwoStringsAreClose.java)                     |
+| 129 | 451     | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                                 | [SortCharactersByFrequency](src/main/java/day_129/SortCharactersByFrequency.java)                             |
+| 130 | 2256    | [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)                                     | [MinimumAverageDifference](src/main/java/day_130/MinimumAverageDifference.java)                               |
+| 131 | 876     | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                       | [MiddleOfTheLinkedList](src/main/java/day_131/MiddleOfTheLinkedList.java)                                     |
+| 132 | 328     | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)                                                 | [OddEvenLinkedList](src/main/java/day_132/OddEvenLinkedList.java)                                             |
+| 133 | 938     | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                                                         | [RangeSumOfBST](src/main/java/day_133/RangeSumOfBST.java)                                                     |
+| 134 | 872     | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/)                                         | [LeafSimilarTrees](src/main/java/day_134/LeafSimilarTrees.java)                                               |
+| 135 | 1026    | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [MaximumDifferenceBetweenNodeAndAncestor](src/main/java/day_135/MaximumDifferenceBetweenNodeAndAncestor.java) |
 
 </details>
