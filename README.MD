@@ -189,5 +189,6 @@
 | 136 | 1339    | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)           | [MaximumProductOfSplittedBinaryTree](src/main/java/day_136/MaximumProductOfSplittedBinaryTree.java)           |
 | 137 | 124     | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                                 | [BinaryTreeMaximumPathSum](src/main/java/day_137/BinaryTreeMaximumPathSum.java)                               |
 | 138 | 70      | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                           | [ClimbingStairs](src/main/java/day_138/ClimbingStairs.java)                                                   |
+| 139 | 931     | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)                                         | [MinimumFallingPathSum](src/main/java/day_139/MinimumFallingPathSum.java)                                     |
 
 </details>
