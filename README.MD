@@ -190,5 +190,6 @@
 | 137 | 124     | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                                 | [BinaryTreeMaximumPathSum](src/main/java/day_137/BinaryTreeMaximumPathSum.java)                               |
 | 138 | 70      | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                           | [ClimbingStairs](src/main/java/day_138/ClimbingStairs.java)                                                   |
 | 139 | 931     | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)                                         | [MinimumFallingPathSum](src/main/java/day_139/MinimumFallingPathSum.java)                                     |
+| 140 | 198     | [House Robber](https://leetcode.com/problems/house-robber/)                                                                 | [HouseRobber](src/main/java/day_140/HouseRobber.java)                                                         |
 
 </details>
