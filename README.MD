@@ -192,5 +192,6 @@
 | 139 | 931     | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)                                         | [MinimumFallingPathSum](src/main/java/day_139/MinimumFallingPathSum.java)                                     |
 | 140 | 198     | [House Robber](https://leetcode.com/problems/house-robber/)                                                                 | [HouseRobber](src/main/java/day_140/HouseRobber.java)                                                         |
 | 141 | 1143    | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                     | [LongestCommonSubsequence](src/main/java/day_141/LongestCommonSubsequence.java)                               |
+| 142 | 232     | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)                     | [MyQueue](src/main/java/day_142/MyQueue.java)                                                                 |
 
 </details>
