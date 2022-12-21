@@ -196,5 +196,6 @@
 | 143 | 150     | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)                          | [EvaluateReversePolishNotation](src/main/java/day_143/EvaluateReversePolishNotation.java)                     |
 | 145 | 1971    | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)                                 | [FindIfPathExistsInGraph](src/main/java/day_145/FindIfPathExistsInGraph.java)                                 |
 | 146 | 841     | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)                                                             | [KeysAndRooms](src/main/java/day_146/KeysAndRooms.java)                                                       |
+| 147 | 886     | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)                                                 | [PossibleBipartition](src/main/java/day_147/PossibleBipartition.java)                                         |
 
 </details>
