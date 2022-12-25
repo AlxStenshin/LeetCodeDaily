@@ -199,6 +199,7 @@
 | 147 | 886     | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)                                                   | [PossibleBipartition](src/main/java/day_147/PossibleBipartition.java)                                         |
 | 148 | 834     | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree)                                            | [SumOfDistancesInTree](src/main/java/day_148/SumOfDistancesInTree.java)                                       |
 | 149 | 309     | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [BestTimeToBuyAndSellStockWithCooldown](src/main/java/day_149/BestTimeToBuyAndSellStockWithCooldown.java)     |
-| 149 | 790     | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)                                         | [DominoAndTrominoTiling](src/main/java/day_150/DominoAndTrominoTiling.java)                                   |
+| 150 | 790     | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)                                         | [DominoAndTrominoTiling](src/main/java/day_150/DominoAndTrominoTiling.java)                                   |
+| 151 | 2389    | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)                   | [LongestSubsequenceWithLimitedSum](src/main/java/day_151/LongestSubsequenceWithLimitedSum.java)               |
 
 </details>
