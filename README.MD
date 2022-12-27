@@ -202,5 +202,6 @@
 | 150 | 790     | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)                                         | [DominoAndTrominoTiling](src/main/java/day_150/DominoAndTrominoTiling.java)                                   |
 | 151 | 2389    | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)                   | [LongestSubsequenceWithLimitedSum](src/main/java/day_151/LongestSubsequenceWithLimitedSum.java)               |
 | 152 | 55      | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                         | [JumpGame](src/main/java/day_152/JumpGame.java)                                                               |
+| 153 | 2279    | [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)           | [MaximumBagsWithFullCapacityOfRocks](src/main/java/day_153/MaximumBagsWithFullCapacityOfRocks.java)           |
 
 </details>
