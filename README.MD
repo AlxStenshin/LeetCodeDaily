@@ -203,5 +203,6 @@
 | 151 | 2389    | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)                   | [LongestSubsequenceWithLimitedSum](src/main/java/day_151/LongestSubsequenceWithLimitedSum.java)               |
 | 152 | 55      | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                         | [JumpGame](src/main/java/day_152/JumpGame.java)                                                               |
 | 153 | 2279    | [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)           | [MaximumBagsWithFullCapacityOfRocks](src/main/java/day_153/MaximumBagsWithFullCapacityOfRocks.java)           |
+| 154 | 1962    | [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)                     | [RemoveStonesToMinimizeTheTotal](src/main/java/day_154/RemoveStonesToMinimizeTheTotal.java)                   |
 
 </details>
