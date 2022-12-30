@@ -205,5 +205,6 @@
 | 153 | 2279    | [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)           | [MaximumBagsWithFullCapacityOfRocks](src/main/java/day_153/MaximumBagsWithFullCapacityOfRocks.java)           |
 | 154 | 1962    | [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)                     | [RemoveStonesToMinimizeTheTotal](src/main/java/day_154/RemoveStonesToMinimizeTheTotal.java)                   |
 | 155 | 1834    | [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/)                                                     | [SingleThreadedCPU](src/main/java/day_155/SingleThreadedCPU.java)                                             |
+| 156 | 797     | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)                             | [AllPathsFromSourceToTarget](src/main/java/day_156/AllPathsFromSourceToTarget.java)                           |
 
 </details>
