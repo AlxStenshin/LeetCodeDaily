@@ -4,6 +4,7 @@
     <img src="https://leetcode.com/static/images/badges/2022/gif/2022-09.gif" alt="Logo" height="80">
     <img src="https://leetcode.com/static/images/badges/2022/gif/2022-10.gif" alt="Logo" height="80">
     <img src="https://leetcode.com/static/images/badges/2022/gif/2022-11.gif" alt="Logo" height="80">
+    <img src="https://leetcode.com/static/images/badges/2022/gif/2022-12.gif" alt="Logo" height="80">
 
 <details>
   <summary>July 2022</summary>
@@ -206,5 +207,6 @@
 | 154 | 1962    | [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)                     | [RemoveStonesToMinimizeTheTotal](src/main/java/day_154/RemoveStonesToMinimizeTheTotal.java)                   |
 | 155 | 1834    | [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/)                                                     | [SingleThreadedCPU](src/main/java/day_155/SingleThreadedCPU.java)                                             |
 | 156 | 797     | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)                             | [AllPathsFromSourceToTarget](src/main/java/day_156/AllPathsFromSourceToTarget.java)                           |
+| 157 | 980     | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)                                                           | [UniquePathsThree](src/main/java/day_157/UniquePathsThree.java)                                               |
 
 </details>
