@@ -215,9 +215,10 @@
 <details>
   <summary>January 2023</summary>
 
-| Day | Task Id | Task                                                            | Solution(s)                                               |
-|-----|---------|-----------------------------------------------------------------|-----------------------------------------------------------|
-| 158 | 290     | [Word Pattern](https://leetcode.com/problems/word-pattern)      | [WordPattern](src/main/java/day_158/WordPattern.java)     |
-| 159 | 520     | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [DetectCapital](src/main/java/day_159/DetectCapital.java) |
+| Day | Task Id | Task                                                                                          | Solution(s)                                                                       |
+|-----|---------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| 158 | 290     | [Word Pattern](https://leetcode.com/problems/word-pattern)                                    | [WordPattern](src/main/java/day_158/WordPattern.java)                             |
+| 159 | 520     | [Detect Capital](https://leetcode.com/problems/detect-capital/)                               | [DetectCapital](src/main/java/day_159/DetectCapital.java)                         |
+| 160 | 944     | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [DeleteColumnsToMakeSorted](src/main/java/day_160/DeleteColumnsToMakeSorted.java) |
 
 </details>
