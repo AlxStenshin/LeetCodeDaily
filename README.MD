@@ -215,11 +215,12 @@
 <details>
   <summary>January 2023</summary>
 
-| Day | Task Id | Task                                                                                                        | Solution(s)                                                                                   |
-|-----|---------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| 158 | 290     | [Word Pattern](https://leetcode.com/problems/word-pattern)                                                  | [WordPattern](src/main/java/day_158/WordPattern.java)                                         |
-| 159 | 520     | [Detect Capital](https://leetcode.com/problems/detect-capital/)                                             | [DetectCapital](src/main/java/day_159/DetectCapital.java)                                     |
-| 160 | 944     | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)               | [DeleteColumnsToMakeSorted](src/main/java/day_160/DeleteColumnsToMakeSorted.java)             |
-| 161 | 2244    | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) | [MinimumRoundsToCompleteAllTasks](src/main/java/day_161/MinimumRoundsToCompleteAllTasks.java) |
+| Day | Task Id | Task                                                                                                                    | Solution(s)                                                                                             |
+|-----|---------|-------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| 158 | 290     | [Word Pattern](https://leetcode.com/problems/word-pattern)                                                              | [WordPattern](src/main/java/day_158/WordPattern.java)                                                   |
+| 159 | 520     | [Detect Capital](https://leetcode.com/problems/detect-capital/)                                                         | [DetectCapital](src/main/java/day_159/DetectCapital.java)                                               |
+| 160 | 944     | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)                           | [DeleteColumnsToMakeSorted](src/main/java/day_160/DeleteColumnsToMakeSorted.java)                       |
+| 161 | 2244    | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)             | [MinimumRoundsToCompleteAllTasks](src/main/java/day_161/MinimumRoundsToCompleteAllTasks.java)           |
+| 162 | 452     | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [MinimumNumberOfArrowsToBurstBalloons](src/main/java/day_162/MinimumNumberOfArrowsToBurstBalloons.java) |
 
 </details>
