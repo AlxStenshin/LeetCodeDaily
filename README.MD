@@ -223,5 +223,6 @@
 | 161 | 2244    | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)             | [MinimumRoundsToCompleteAllTasks](src/main/java/day_161/MinimumRoundsToCompleteAllTasks.java)           |
 | 162 | 452     | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [MinimumNumberOfArrowsToBurstBalloons](src/main/java/day_162/MinimumNumberOfArrowsToBurstBalloons.java) |
 | 163 | 1833    | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)                                         | [MaximumIceCreamBars](src/main/java/day_163/MaximumIceCreamBars.java)                                   |
+| 164 | 134     | [Gas Station](https://leetcode.com/problems/gas-station/)                                                               | [GasStation](src/main/java/day_164/GasStation.java)                                                     |
 
 </details>
