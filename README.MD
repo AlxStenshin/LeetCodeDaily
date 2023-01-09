@@ -225,5 +225,6 @@
 | 163 | 1833    | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)                                         | [MaximumIceCreamBars](src/main/java/day_163/MaximumIceCreamBars.java)                                   |
 | 164 | 134     | [Gas Station](https://leetcode.com/problems/gas-station/)                                                               | [GasStation](src/main/java/day_164/GasStation.java)                                                     |
 | 165 | 149     | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)                                             | [MaxPointsOnLine](src/main/java/day_165/MaxPointsOnLine.java)                                           |
+| 166 | 144     | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)                         | [BinaryTreePreorderTraversal](src/main/java/day_166/BinaryTreePreorderTraversal.java)                   |
 
 </details>
