@@ -226,5 +226,6 @@
 | 164 | 134     | [Gas Station](https://leetcode.com/problems/gas-station/)                                                               | [GasStation](src/main/java/day_164/GasStation.java)                                                     |
 | 165 | 149     | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)                                             | [MaxPointsOnLine](src/main/java/day_165/MaxPointsOnLine.java)                                           |
 | 166 | 144     | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)                         | [BinaryTreePreorderTraversal](src/main/java/day_166/BinaryTreePreorderTraversal.java)                   |
+| 167 | 100     | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                   | [SameTree](src/main/java/day_167/SameTree.java)                                                         |
 
 </details>
