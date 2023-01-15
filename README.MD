@@ -231,5 +231,6 @@
 | 169 | 1519    | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) | [NumberOrNodesInSubTreeWithTheSameLabel](src/main/java/day_169/NumberOrNodesInSubTreeWithTheSameLabel.java)         |
 | 170 | 2246    | [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)         | [LongestPathWithDifferentAdjacentCharacters](src/main/java/day_170/LongestPathWithDifferentAdjacentCharacters.java) |
 | 171 | 1061    | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)               | [LexicographicallySmallestEquivalentString](src/main/java/day_171/LexicographicallySmallestEquivalentString.java)   |
+| 172 | 2421    | [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/)                                                               | [NumberOfGoodPaths](src/main/java/day_172/NumberOfGoodPaths.java)                                                   |
 
 </details>
