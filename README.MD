@@ -233,5 +233,6 @@
 | 171 | 1061    | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)               | [LexicographicallySmallestEquivalentString](src/main/java/day_171/LexicographicallySmallestEquivalentString.java)   |
 | 172 | 2421    | [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/)                                                               | [NumberOfGoodPaths](src/main/java/day_172/NumberOfGoodPaths.java)                                                   |
 | 173 | 57      | [Insert Interval](https://leetcode.com/problems/insert-interval/)                                                                         | [InsertInterval](src/main/java/day_173/InsertInterval.java)                                                         |
+| 174 | 926     | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)                                   | [FlipStringToMonotoneIncreasing](src/main/java/day_174/FlipStringToMonotoneIncreasing.java)                         |
 
 </details>
