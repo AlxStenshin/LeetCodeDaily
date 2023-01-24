@@ -240,5 +240,6 @@
 | 178 | 93      | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)                                                               | [RestoreIPAddresses](src/main/java/day_178/RestoreIPAddresses.java)                                                 |
 | 179 | 131     | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)                                                         | [PalindromePartitioning](src/main/java/day_179/PalindromePartitioning.java)                                         |
 | 180 | 997     | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)                                                                 | [FindTheTownJudge](src/main/java/day_180/FindTheTownJudge.java)                                                     |
+| 181 | 909     | [Snakes and Ladders ](https://leetcode.com/problems/snakes-and-ladders/)                                                                  | [SnakesAndLadders](src/main/java/day_181/SnakesAndLadders.java)                                                     |
 
 </details>
