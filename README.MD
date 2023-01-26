@@ -242,5 +242,6 @@
 | 180 | 997     | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)                                                                 | [FindTheTownJudge](src/main/java/day_180/FindTheTownJudge.java)                                                     |
 | 181 | 909     | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)                                                                   | [SnakesAndLadders](src/main/java/day_181/SnakesAndLadders.java)                                                     |
 | 182 | 2359    | [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)                               | [FindClosestNodeToGivenTwoNodes](src/main/java/day_182/FindClosestNodeToGivenTwoNodes.java)                         |
+| 183 | 787     | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)                                         | [CheapestFlightsWithinKStops](src/main/java/day_183/CheapestFlightsWithinKStops.java)                               |
 
 </details>
