@@ -243,5 +243,6 @@
 | 181 | 909     | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)                                                                   | [SnakesAndLadders](src/main/java/day_181/SnakesAndLadders.java)                                                     |
 | 182 | 2359    | [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)                               | [FindClosestNodeToGivenTwoNodes](src/main/java/day_182/FindClosestNodeToGivenTwoNodes.java)                         |
 | 183 | 787     | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)                                         | [CheapestFlightsWithinKStops](src/main/java/day_183/CheapestFlightsWithinKStops.java)                               |
+| 184 | 472     | [Concatenated Words](https://leetcode.com/problems/concatenated-words/)                                                                   | [ConcatenatedWords](src/main/java/day_184/ConcatenatedWords.java)                                                   |
 
 </details>
