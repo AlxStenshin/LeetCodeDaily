@@ -244,5 +244,6 @@
 | 182 | 2359    | [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)                               | [FindClosestNodeToGivenTwoNodes](src/main/java/day_182/FindClosestNodeToGivenTwoNodes.java)                         |
 | 183 | 787     | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)                                         | [CheapestFlightsWithinKStops](src/main/java/day_183/CheapestFlightsWithinKStops.java)                               |
 | 184 | 472     | [Concatenated Words](https://leetcode.com/problems/concatenated-words/)                                                                   | [ConcatenatedWords](src/main/java/day_184/ConcatenatedWords.java)                                                   |
+| 185 | 352     | [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)                                     | [SummaryRanges](src/main/java/day_185/SummaryRanges.java)                                                           |
 
 </details>
