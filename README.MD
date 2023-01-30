@@ -246,5 +246,6 @@
 | 184 | 472     | [Concatenated Words](https://leetcode.com/problems/concatenated-words/)                                                                   | [ConcatenatedWords](src/main/java/day_184/ConcatenatedWords.java)                                                   |
 | 185 | 352     | [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)                                     | [SummaryRanges](src/main/java/day_185/SummaryRanges.java)                                                           |
 | 186 | 460     | [LFU Cache](https://leetcode.com/problems/lfu-cache/)                                                                                     | [LFUCache](src/main/java/day_186/LFUCache.java)                                                                     |
+| 187 | 1137    | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                                                           | [NthTribonacciNumber](src/main/java/day_187/NthTribonacciNumber.java)                                               |
 
 </details>
