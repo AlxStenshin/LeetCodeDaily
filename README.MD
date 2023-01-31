@@ -7,6 +7,10 @@
     <img src="https://leetcode.com/static/images/badges/2022/gif/2022-12.gif" alt="Logo" height="80">
     <img src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif" alt="Logo" height="80">
 
+
+<p style="text-align: center;">
+    <img src="https://leetcode.com/static/images/badges/2023/gif/2023-01.gif" alt="Logo" height="80">
+
 <details>
   <summary>July 2022</summary>
 
@@ -247,5 +251,15 @@
 | 185 | 352     | [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)                                     | [SummaryRanges](src/main/java/day_185/SummaryRanges.java)                                                           |
 | 186 | 460     | [LFU Cache](https://leetcode.com/problems/lfu-cache/)                                                                                     | [LFUCache](src/main/java/day_186/LFUCache.java)                                                                     |
 | 187 | 1137    | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                                                           | [NthTribonacciNumber](src/main/java/day_187/NthTribonacciNumber.java)                                               |
+| 188 | 1626    | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)                                                 | [BestTeamWithNoConflicts](src/main/java/day_188/BestTeamWithNoConflicts.java)                                       |
+
+</details>
+
+
+<details>
+  <summary>February 2023</summary>
+
+| Day | Task Id | Task                                                                                                                                      | Solution(s)                                                                                                         |
+|-----|---------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 
 </details>
