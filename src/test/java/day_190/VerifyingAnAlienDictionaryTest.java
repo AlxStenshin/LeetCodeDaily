@@ -16,7 +16,7 @@ class VerifyingAnAlienDictionaryTest {
 
     @Test
     void shouldReturnFalse() {
-        String[] words = {"world", "world", "row"};
+        String[] words = {"word", "world", "row"};
         String order = "worldabcefghijkmnpqstuvxyz";
 
         assertFalse(new VerifyingAnAlienDictionary().isAlienSorted(words, order));
