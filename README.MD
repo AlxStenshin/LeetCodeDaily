@@ -265,5 +265,6 @@
 | 190 | 953     | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)          | [VerifyingAnAlienDictionary](src/main/java/day_190/VerifyingAnAlienDictionary.java)         |
 | 191 | 6       | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion)                                   | [Zigzag Conversion](src/main/java/day_191/ZigzagConversion.java)                            |
 | 192 | 567     | [Permutation in String](https://leetcode.com/problems/permutation-in-string/)                          | [PermutationInString](src/main/java/day_192/PermutationInString.java)                       |
+| 193 | 438     | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)          | [FindAllAnagramsInAString](src/main/java/day_193/FindAllAnagramsInAString.java)             |
 
 </details>
