@@ -23,7 +23,7 @@ class RandomizedSetTest {
 
         // getRandom() should return either 1 or 2 randomly.
         List<Integer> expectedResults = List.of(1, 2);
-        assertTrue(expectedResults.stream().anyMatch(item -> item.equals(randomizedSet.getRandom())));
+        assertTrue(expectedResults.contains(randomizedSet.getRandom()));
 
         // Removes 1 from the set, returns true. Set now contains [2].
         assertTrue(randomizedSet.remove(1));
