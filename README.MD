@@ -267,5 +267,6 @@
 | 192 | 567     | [Permutation in String](https://leetcode.com/problems/permutation-in-string/)                          | [PermutationInString](src/main/java/day_192/PermutationInString.java)                       |
 | 193 | 438     | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)          | [FindAllAnagramsInAString](src/main/java/day_193/FindAllAnagramsInAString.java)             |
 | 194 | 1470    | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                  | [ShuffleTheArray](src/main/java/day_194/ShuffleTheArray.java)                               |
+| 195 | 904     | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                | [FruitIntoBaskets](src/main/java/day_195/FruitIntoBaskets.java)                             |
 
 </details>
