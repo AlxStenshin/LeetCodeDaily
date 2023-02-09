@@ -268,6 +268,7 @@
 | 193 | 438     | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)          | [FindAllAnagramsInAString](src/main/java/day_193/FindAllAnagramsInAString.java)             |
 | 194 | 1470    | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                  | [ShuffleTheArray](src/main/java/day_194/ShuffleTheArray.java)                               |
 | 195 | 904     | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                | [FruitIntoBaskets](src/main/java/day_195/FruitIntoBaskets.java)                             |
-| 196 | 45      | [Оump Game II](https://leetcode.com/problems/jump-game-ii/)                                            | [JumpGameTwo](src/main/java/day_196/JumpGameTwo.java)                                       |
+| 196 | 45      | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                            | [JumpGameTwo](src/main/java/day_196/JumpGameTwo.java)                                       |
+| 197 | 2306    | [Naming a Company](https://leetcode.com/problems/naming-a-company/)                                    | [NamingACompany](src/main/java/day_197/NamingACompany.java)                                 |
 
 </details>
