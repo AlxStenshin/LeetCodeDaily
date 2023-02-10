@@ -270,5 +270,6 @@
 | 195 | 904     | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                | [FruitIntoBaskets](src/main/java/day_195/FruitIntoBaskets.java)                             |
 | 196 | 45      | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                            | [JumpGameTwo](src/main/java/day_196/JumpGameTwo.java)                                       |
 | 197 | 2306    | [Naming a Company](https://leetcode.com/problems/naming-a-company/)                                    | [NamingACompany](src/main/java/day_197/NamingACompany.java)                                 |
+| 198 | 1162    | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)            | [AsFarFromLandAsPossible](src/main/java/day_198/AsFarFromLandAsPossible.java)               |
 
 </details>
