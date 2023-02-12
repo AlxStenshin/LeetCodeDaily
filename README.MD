@@ -259,18 +259,19 @@
 <details>
   <summary>February 2023</summary>
 
-| Day | Task Id | Task                                                                                                          | Solution(s)                                                                                       |
-|-----|---------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| 189 | 1071    | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings)        | [GreatestCommonDivisorOfStrings](src/main/java/day_189/GreatestCommonDivisorOfStrings.java)       |
-| 190 | 953     | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)                 | [VerifyingAnAlienDictionary](src/main/java/day_190/VerifyingAnAlienDictionary.java)               |
-| 191 | 6       | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion)                                          | [Zigzag Conversion](src/main/java/day_191/ZigzagConversion.java)                                  |
-| 192 | 567     | [Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                 | [PermutationInString](src/main/java/day_192/PermutationInString.java)                             |
-| 193 | 438     | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)                 | [FindAllAnagramsInAString](src/main/java/day_193/FindAllAnagramsInAString.java)                   |
-| 194 | 1470    | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                         | [ShuffleTheArray](src/main/java/day_194/ShuffleTheArray.java)                                     |
-| 195 | 904     | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                       | [FruitIntoBaskets](src/main/java/day_195/FruitIntoBaskets.java)                                   |
-| 196 | 45      | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                                   | [JumpGameTwo](src/main/java/day_196/JumpGameTwo.java)                                             |
-| 197 | 2306    | [Naming a Company](https://leetcode.com/problems/naming-a-company/)                                           | [NamingACompany](src/main/java/day_197/NamingACompany.java)                                       |
-| 198 | 1162    | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)                   | [AsFarFromLandAsPossible](src/main/java/day_198/AsFarFromLandAsPossible.java)                     |
-| 199 | 1129    | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [ShortestPathWithAlternatingColors](src/main/java/day_199/ShortestPathWithAlternatingColors.java) |
+| Day | Task Id | Task                                                                                                                    | Solution(s)                                                                                           |
+|-----|---------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| 189 | 1071    | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings)                  | [GreatestCommonDivisorOfStrings](src/main/java/day_189/GreatestCommonDivisorOfStrings.java)           |
+| 190 | 953     | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)                           | [VerifyingAnAlienDictionary](src/main/java/day_190/VerifyingAnAlienDictionary.java)                   |
+| 191 | 6       | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion)                                                    | [Zigzag Conversion](src/main/java/day_191/ZigzagConversion.java)                                      |
+| 192 | 567     | [Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                           | [PermutationInString](src/main/java/day_192/PermutationInString.java)                                 |
+| 193 | 438     | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)                           | [FindAllAnagramsInAString](src/main/java/day_193/FindAllAnagramsInAString.java)                       |
+| 194 | 1470    | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                                   | [ShuffleTheArray](src/main/java/day_194/ShuffleTheArray.java)                                         |
+| 195 | 904     | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                                 | [FruitIntoBaskets](src/main/java/day_195/FruitIntoBaskets.java)                                       |
+| 196 | 45      | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                                             | [JumpGameTwo](src/main/java/day_196/JumpGameTwo.java)                                                 |
+| 197 | 2306    | [Naming a Company](https://leetcode.com/problems/naming-a-company/)                                                     | [NamingACompany](src/main/java/day_197/NamingACompany.java)                                           |
+| 198 | 1162    | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)                             | [AsFarFromLandAsPossible](src/main/java/day_198/AsFarFromLandAsPossible.java)                         |
+| 199 | 1129    | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)           | [ShortestPathWithAlternatingColors](src/main/java/day_199/ShortestPathWithAlternatingColors.java)     |
+| 200 | 2477    | [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) | [MinimumFuelCostToReportToTheCapital](src/main/java/day_200/MinimumFuelCostToReportToTheCapital.java) |
 
 </details>
