@@ -273,5 +273,6 @@
 | 198 | 1162    | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)                             | [AsFarFromLandAsPossible](src/main/java/day_198/AsFarFromLandAsPossible.java)                         |
 | 199 | 1129    | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)           | [ShortestPathWithAlternatingColors](src/main/java/day_199/ShortestPathWithAlternatingColors.java)     |
 | 200 | 2477    | [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) | [MinimumFuelCostToReportToTheCapital](src/main/java/day_200/MinimumFuelCostToReportToTheCapital.java) |
+| 201 | 1523    | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)         | [CountOddNumbersInAnIntervalRange](src/main/java/day_201/CountOddNumbersInAnIntervalRange.java)       |
 
 </details>
