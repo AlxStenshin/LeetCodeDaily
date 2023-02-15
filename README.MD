@@ -275,5 +275,6 @@
 | 200 | 2477    | [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) | [MinimumFuelCostToReportToTheCapital](src/main/java/day_200/MinimumFuelCostToReportToTheCapital.java) |
 | 201 | 1523    | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)         | [CountOddNumbersInAnIntervalRange](src/main/java/day_201/CountOddNumbersInAnIntervalRange.java)       |
 | 202 | 67      | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                 | [AddBinary](src/main/java/day_202/AddBinary.java)                                                     |
+| 203 | 989     | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)                             | [AddToArrayFormOfInteger](src/main/java/day_203/AddToArrayFormOfInteger.java)                         |
 
 </details>
