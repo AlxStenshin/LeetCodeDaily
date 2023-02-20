@@ -32,9 +32,9 @@ class BinaryTreeZigzagLevelOrderTraversalTest {
     }
 
     @Test
-    void shouldReturnNullForEmptyInput() {
+    void shouldReturnEmptyListForEmptyInput() {
         TreeNode root = null;
-        List<List<Integer>> expected = List.of(List.of());
+        List<List<Integer>> expected = List.of();
         assertEquals(expected, new BinaryTreeZigzagLevelOrderTraversal().zigzagLevelOrder(root));
     }
 
