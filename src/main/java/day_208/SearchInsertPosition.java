@@ -9,7 +9,6 @@ package day_208;
  * You must write an algorithm with O(log n) runtime complexity.
  */
 
-
 public class SearchInsertPosition {
     public int searchInsert(int[] nums, int target) {
         int startIndex = 0;
