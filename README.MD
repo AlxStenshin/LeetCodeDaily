@@ -286,5 +286,6 @@
 | 211 | 502     | [IPO](https://leetcode.com/problems/ipo/)                                                                               | [IPO](src/main/java/day_211/IPO.java)                                                                 |
 | 212 | 1675    | [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)                               | [MinimizeDeviationInArray](src/main/java/day_212/MinimizeDeviationInArray.java)                       |
 | 213 | 121     | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                       | [BestTimeToBuyAndSellStock](src/main/java/day_213/BestTimeToBuyAndSellStock.java)                     |
+| 214 | 72      | [Edit Distance](https://leetcode.com/problems/edit-distance/)                                                           | [EditDistance](src/main/java/day_214/EditDistance.java)                                               |
 
 </details>
