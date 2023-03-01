@@ -292,3 +292,12 @@
 | 216 | 652     | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)                                       | [FindDuplicateSubtrees](src/main/java/day_216/FindDuplicateSubtrees.java)                             |
 
 </details>
+
+<details>
+  <summary>March 2023</summary>
+
+| Day | Task Id | Task                                                          | Solution(s)                                           |
+|-----|---------|---------------------------------------------------------------|-------------------------------------------------------|
+| 217 | 912     | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [SortAnArray](src/main/java/day_217/SortAnArray.java) |
+
+</details>
