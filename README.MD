@@ -296,8 +296,9 @@
 <details>
   <summary>March 2023</summary>
 
-| Day | Task Id | Task                                                          | Solution(s)                                           |
-|-----|---------|---------------------------------------------------------------|-------------------------------------------------------|
-| 217 | 912     | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [SortAnArray](src/main/java/day_217/SortAnArray.java) |
+| Day | Task Id | Task                                                                    | Solution(s)                                                       |
+|-----|---------|-------------------------------------------------------------------------|-------------------------------------------------------------------|
+| 217 | 912     | [Sort an Array](https://leetcode.com/problems/sort-an-array/)           | [SortAnArray](src/main/java/day_217/SortAnArray.java)             |
+| 218 | 443     | [String Compression](https://leetcode.com/problems/string-compression/) | [StringCompression](src/main/java/day_218/StringCompression.java) |
 
 </details>
