@@ -303,5 +303,6 @@
 | 219 | 28      | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [FindTheIndexOfTheFirstOccurrenceInAString](src/main/java/day_219/FindTheIndexOfTheFirstOccurrenceInAString.java) |
 | 220 | 2444    | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)                                   | [CountSubarraysWithFixedBounds](src/main/java/day_220/CountSubarraysWithFixedBounds.java)                         |
 | 221 | 1345    | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/)                                                                             | [JumpGameFour](src/main/java/day_221/JumpGameFour.java)                                                           |
+| 222 | 1539    | [ Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)                                              | [KthMissingPositiveNumber](src/main/java/day_222/KthMissingPositiveNumber.java)                                   |
 
 </details>
