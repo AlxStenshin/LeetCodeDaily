@@ -305,5 +305,6 @@
 | 221 | 1345    | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/)                                                                             | [JumpGameFour](src/main/java/day_221/JumpGameFour.java)                                                           |
 | 222 | 1539    | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)                                               | [KthMissingPositiveNumber](src/main/java/day_222/KthMissingPositiveNumber.java)                                   |
 | 223 | 2187    | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/)                                         | [MinimumTimeToCompleteTrips](src/main/java/day_223/MinimumTimeToCompleteTrips.java)                               |
+| 224 | 875     | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                                               | [KokoEatingBananas](src/main/java/day_224/KokoEatingBananas.java)                                                 |
 
 </details>
