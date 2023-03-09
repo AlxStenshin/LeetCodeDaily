@@ -306,5 +306,6 @@
 | 222 | 1539    | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)                                               | [KthMissingPositiveNumber](src/main/java/day_222/KthMissingPositiveNumber.java)                                   |
 | 223 | 2187    | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/)                                         | [MinimumTimeToCompleteTrips](src/main/java/day_223/MinimumTimeToCompleteTrips.java)                               |
 | 224 | 875     | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                                               | [KokoEatingBananas](src/main/java/day_224/KokoEatingBananas.java)                                                 |
+| 225 | 142     | [ Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                                            | [LinkedListCycleTwo](src/main/java/day_225/LinkedListCycleTwo.java)                                               |
 
 </details>
