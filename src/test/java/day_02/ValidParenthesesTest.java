@@ -25,7 +25,7 @@ class ValidParenthesesTest {
     }
 
     @Test
-    void shouldReturnTrueWithCOmplexInput() {
+    void shouldReturnTrueWithComplexInput() {
         String s = "([[]]){}";
         assertTrue(new ValidParentheses().isValid(s));
     }
