@@ -11,6 +11,7 @@
 <p style="text-align: center;">
     <img src="https://leetcode.com/static/images/badges/2023/gif/2023-01.gif" alt="Logo" height="80">
     <img src="https://leetcode.com/static/images/badges/2023/gif/2023-02.gif" alt="Logo" height="80">
+    <img src="https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" alt="Logo" height="80">
 
 <details>
   <summary>July 2022</summary>
@@ -328,5 +329,6 @@
 | 244 | 983     | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)                                                                     | [MinimumCostForTickets](src/main/java/day_244/MinimumCostForTickets.java)                                                                                                                 |
 | 245 | 1402    | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)                                                                                       | [ReducingDishes](src/main/java/day_245/ReducingDishes.java)                                                                                                                               |
 | 246 | 87      | [Scramble String](https://leetcode.com/problems/scramble-string/)                                                                                       | [ScrambleString](src/main/java/day_246/ScrambleString.java)                                                                                                                               |
+| 247 | 1444    | [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/)                                                   | [NumberOfWaysOfCuttingAPizza](src/main/java/day_247/NumberOfWaysOfCuttingAPizza.java)                                                                                                     |
 
 </details>
