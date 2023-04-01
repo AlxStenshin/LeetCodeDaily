@@ -330,5 +330,14 @@
 | 245 | 1402    | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)                                                                                       | [ReducingDishes](src/main/java/day_245/ReducingDishes.java)                                                                                                                               |
 | 246 | 87      | [Scramble String](https://leetcode.com/problems/scramble-string/)                                                                                       | [ScrambleString](src/main/java/day_246/ScrambleString.java)                                                                                                                               |
 | 247 | 1444    | [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/)                                                   | [NumberOfWaysOfCuttingAPizza](src/main/java/day_247/NumberOfWaysOfCuttingAPizza.java)                                                                                                     |
+</details>
+
+
+<details>
+  <summary>April 2023</summary>
+
+| Day | Task Id | Task                                                                                                                                                    | Solution(s)                                                                                                                                                                               |
+|-----|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 248 | 704     | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                                           | [BinarySearch](src/main/java/day_248/BinarySearch.java)                                                                                                                                   |
 
 </details>
