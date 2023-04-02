@@ -336,8 +336,9 @@
 <details>
   <summary>April 2023</summary>
 
-| Day | Task Id | Task                                                                                                                                                    | Solution(s)                                                                                                                                                                               |
-|-----|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 248 | 704     | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                                           | [BinarySearch](src/main/java/day_248/BinarySearch.java)                                                                                                                                   |
+| Day | Task Id | Task                                                                                                            | Solution(s)                                                                                       |
+|-----|---------|-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| 248 | 704     | [Binary Search](https://leetcode.com/problems/binary-search/)                                                   | [BinarySearch](src/main/java/day_248/BinarySearch.java)                                           |
+| 249 | 2300    | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [SuccessfulPairsOfSpellsAndPotions](src/main/java/day_249/SuccessfulPairsOfSpellsAndPotions.java) |
 
 </details>
