@@ -340,5 +340,6 @@
 |-----|---------|-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 | 248 | 704     | [Binary Search](https://leetcode.com/problems/binary-search/)                                                   | [BinarySearch](src/main/java/day_248/BinarySearch.java)                                           |
 | 249 | 2300    | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [SuccessfulPairsOfSpellsAndPotions](src/main/java/day_249/SuccessfulPairsOfSpellsAndPotions.java) |
+| 250 | 881     | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)                                     | [BoatsToSavePeople](src/main/java/day_250/BoatsToSavePeople.java)                                 |
 
 </details>
