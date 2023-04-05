@@ -342,5 +342,6 @@
 | 249 | 2300    | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [SuccessfulPairsOfSpellsAndPotions](src/main/java/day_249/SuccessfulPairsOfSpellsAndPotions.java) |
 | 250 | 881     | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)                                     | [BoatsToSavePeople](src/main/java/day_250/BoatsToSavePeople.java)                                 |
 | 251 | 2405    | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)                       | [Optimal Partition of String](src/main/java/day_251/OptimalPartitionOfString.java)                |
+| 252 | 2439    | [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/)                           | [MinimizeMaximumOfArray](src/main/java/day_252/MinimizeMaximumOfArray.java)                       |
 
 </details>
