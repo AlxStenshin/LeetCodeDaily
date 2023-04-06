@@ -343,5 +343,6 @@
 | 250 | 881     | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)                                     | [BoatsToSavePeople](src/main/java/day_250/BoatsToSavePeople.java)                                 |
 | 251 | 2405    | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)                       | [Optimal Partition of String](src/main/java/day_251/OptimalPartitionOfString.java)                |
 | 252 | 2439    | [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/)                           | [MinimizeMaximumOfArray](src/main/java/day_252/MinimizeMaximumOfArray.java)                       |
+| 253 | 1254    | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)                             | [NumberOfClosedIslands](src/main/java/day_253/NumberOfClosedIslands.java)                         |
 
 </details>
