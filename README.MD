@@ -345,5 +345,6 @@
 | 252 | 2439    | [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/)                           | [MinimizeMaximumOfArray](src/main/java/day_252/MinimizeMaximumOfArray.java)                       |
 | 253 | 1254    | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)                             | [NumberOfClosedIslands](src/main/java/day_253/NumberOfClosedIslands.java)                         |
 | 254 | 1020    | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)                                         | [NumberOfEnclaves](src/main/java/day_254/NumberOfEnclaves.java)                                   |
+| 255 | 133     | [Clone Graph](https://leetcode.com/problems/clone-graph/)                                                       | [CloneGraph](src/main/java/day_255/CloneGraph.java)                                               |
 
 </details>
