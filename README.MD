@@ -336,15 +336,16 @@
 <details>
   <summary>April 2023</summary>
 
-| Day | Task Id | Task                                                                                                            | Solution(s)                                                                                       |
-|-----|---------|-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| 248 | 704     | [Binary Search](https://leetcode.com/problems/binary-search/)                                                   | [BinarySearch](src/main/java/day_248/BinarySearch.java)                                           |
-| 249 | 2300    | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [SuccessfulPairsOfSpellsAndPotions](src/main/java/day_249/SuccessfulPairsOfSpellsAndPotions.java) |
-| 250 | 881     | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)                                     | [BoatsToSavePeople](src/main/java/day_250/BoatsToSavePeople.java)                                 |
-| 251 | 2405    | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)                       | [Optimal Partition of String](src/main/java/day_251/OptimalPartitionOfString.java)                |
-| 252 | 2439    | [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/)                           | [MinimizeMaximumOfArray](src/main/java/day_252/MinimizeMaximumOfArray.java)                       |
-| 253 | 1254    | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)                             | [NumberOfClosedIslands](src/main/java/day_253/NumberOfClosedIslands.java)                         |
-| 254 | 1020    | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)                                         | [NumberOfEnclaves](src/main/java/day_254/NumberOfEnclaves.java)                                   |
-| 255 | 133     | [Clone Graph](https://leetcode.com/problems/clone-graph/)                                                       | [CloneGraph](src/main/java/day_255/CloneGraph.java)                                               |
+| Day | Task Id | Task                                                                                                              | Solution(s)                                                                                       |
+|-----|---------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| 248 | 704     | [Binary Search](https://leetcode.com/problems/binary-search/)                                                     | [BinarySearch](src/main/java/day_248/BinarySearch.java)                                           |
+| 249 | 2300    | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)   | [SuccessfulPairsOfSpellsAndPotions](src/main/java/day_249/SuccessfulPairsOfSpellsAndPotions.java) |
+| 250 | 881     | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)                                       | [BoatsToSavePeople](src/main/java/day_250/BoatsToSavePeople.java)                                 |
+| 251 | 2405    | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)                         | [Optimal Partition of String](src/main/java/day_251/OptimalPartitionOfString.java)                |
+| 252 | 2439    | [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/)                             | [MinimizeMaximumOfArray](src/main/java/day_252/MinimizeMaximumOfArray.java)                       |
+| 253 | 1254    | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)                               | [NumberOfClosedIslands](src/main/java/day_253/NumberOfClosedIslands.java)                         |
+| 254 | 1020    | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)                                           | [NumberOfEnclaves](src/main/java/day_254/NumberOfEnclaves.java)                                   |
+| 255 | 133     | [Clone Graph](https://leetcode.com/problems/clone-graph/)                                                         | [CloneGraph](src/main/java/day_255/CloneGraph.java)                                               |
+| 256 | 1857    | [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | [LargestColorValueInADirectedGraph](src/main/java/day_256/LargestColorValueInADirectedGraph.java) |
 
 </details>
