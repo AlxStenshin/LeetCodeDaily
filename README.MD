@@ -348,5 +348,6 @@
 | 255 | 133     | [Clone Graph](https://leetcode.com/problems/clone-graph/)                                                         | [CloneGraph](src/main/java/day_255/CloneGraph.java)                                               |
 | 256 | 1857    | [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | [LargestColorValueInADirectedGraph](src/main/java/day_256/LargestColorValueInADirectedGraph.java) |
 | 257 | 20      | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                             | [ValidParentheses](src/main/java/day_257/ValidParentheses.java)                                   |
+| 258 | 2390    | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                       | [RemovingStarsFromAString](src/main/java/day_258/RemovingStarsFromAString.java)                   |
 
 </details>
