@@ -350,5 +350,6 @@
 | 257 | 20      | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                             | [ValidParentheses](src/main/java/day_257/ValidParentheses.java)                                   |
 | 258 | 2390    | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                       | [RemovingStarsFromAString](src/main/java/day_258/RemovingStarsFromAString.java)                   |
 | 259 | 71      | [Simplify Path](https://leetcode.com/problems/simplify-path/)                                                     | [SimplifyPath](src/main/java/day_259/SimplifyPath.java)                                           |
+| 260 | 946     | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)                               | [ValidateStackSequences](src/main/java/day_260/ValidateStackSequences.java)                       |
 
 </details>
