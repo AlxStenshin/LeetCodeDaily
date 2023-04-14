@@ -351,5 +351,6 @@
 | 258 | 2390    | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                       | [RemovingStarsFromAString](src/main/java/day_258/RemovingStarsFromAString.java)                   |
 | 259 | 71      | [Simplify Path](https://leetcode.com/problems/simplify-path/)                                                     | [SimplifyPath](src/main/java/day_259/SimplifyPath.java)                                           |
 | 260 | 946     | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)                               | [ValidateStackSequences](src/main/java/day_260/ValidateStackSequences.java)                       |
+| 261 | 516     | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)                 | [LongestPalindromicSubsequence](src/main/java/day_261/LongestPalindromicSubsequence.java)         |
 
 </details>
