@@ -352,5 +352,6 @@
 | 259 | 71      | [Simplify Path](https://leetcode.com/problems/simplify-path/)                                                     | [SimplifyPath](src/main/java/day_259/SimplifyPath.java)                                           |
 | 260 | 946     | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)                               | [ValidateStackSequences](src/main/java/day_260/ValidateStackSequences.java)                       |
 | 261 | 516     | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)                 | [LongestPalindromicSubsequence](src/main/java/day_261/LongestPalindromicSubsequence.java)         |
+| 262 | 2218    | [Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/)         | [MaximumValueOfKCoinsFromPiles](src/main/java/day_262/MaximumValueOfKCoinsFromPiles.java)         |
 
 </details>
