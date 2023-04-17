@@ -354,5 +354,6 @@
 | 261 | 516     | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)                                                     | [LongestPalindromicSubsequence](src/main/java/day_261/LongestPalindromicSubsequence.java)                                     |
 | 262 | 2218    | [Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/)                                             | [MaximumValueOfKCoinsFromPiles](src/main/java/day_262/MaximumValueOfKCoinsFromPiles.java)                                     |
 | 263 | 1639    | [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/) | [NumberOfWaysToFormATargetStringGivenADictionary](src/main/java/day_263/NumberOfWaysToFormATargetStringGivenADictionary.java) |
+| 264 | 1431    | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)                                   | [KidsWithTheGreatestNumberOfCandies](src/main/java/day_264/KidsWithTheGreatestNumberOfCandies.java)                           |
 
 </details>
