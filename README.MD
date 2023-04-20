@@ -357,5 +357,6 @@
 | 264 | 1431    | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)                                   | [KidsWithTheGreatestNumberOfCandies](src/main/java/day_264/KidsWithTheGreatestNumberOfCandies.java)                           |
 | 265 | 1768    | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)                                                                 | [MergeStringsAlternately](src/main/java/day_265/MergeStringsAlternately.java)                                                 |
 | 266 | 1372    | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)                                           | [LongestZigZagPathInABinaryTree](src/main/java/day_266/LongestZigZagPathInABinaryTree.java)                                   |
+| 267 | 662     | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)                                                           | [MaximumWidthOfBinaryTree](src/main/java/day_267/MaximumWidthOfBinaryTree.java)                                               |
 
 </details>
