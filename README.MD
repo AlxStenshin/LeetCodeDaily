@@ -358,5 +358,6 @@
 | 265 | 1768    | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)                                                                 | [MergeStringsAlternately](src/main/java/day_265/MergeStringsAlternately.java)                                                 |
 | 266 | 1372    | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)                                           | [LongestZigZagPathInABinaryTree](src/main/java/day_266/LongestZigZagPathInABinaryTree.java)                                   |
 | 267 | 662     | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)                                                           | [MaximumWidthOfBinaryTree](src/main/java/day_267/MaximumWidthOfBinaryTree.java)                                               |
+| 268 | 879     | [Profitable Schemes](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/)                                                              | [ProfitableSchemes](src/main/java/day_268/ProfitableSchemes.java)                                                             |
 
 </details>
