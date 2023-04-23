@@ -360,5 +360,6 @@
 | 267 | 662     | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)                                                           | [MaximumWidthOfBinaryTree](src/main/java/day_267/MaximumWidthOfBinaryTree.java)                                               |
 | 268 | 879     | [Profitable Schemes](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/)                                                              | [ProfitableSchemes](src/main/java/day_268/ProfitableSchemes.java)                                                             |
 | 269 | 1312    | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)             | [MinimumInsertionStepsToMakeAStringPalindrome](src/main/java/day_269/MinimumInsertionStepsToMakeAStringPalindrome.java)       |
+| 270 | 1416    | [Restore The Array](https://leetcode.com/problems/restore-the-array)                                                                                  | [RestoreTheArray](src/main/java/day_270/RestoreTheArray.java)                                                                 |
 
 </details>
