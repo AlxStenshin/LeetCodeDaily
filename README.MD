@@ -362,5 +362,6 @@
 | 269 | 1312    | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)             | [MinimumInsertionStepsToMakeAStringPalindrome](src/main/java/day_269/MinimumInsertionStepsToMakeAStringPalindrome.java)       |
 | 270 | 1416    | [Restore The Array](https://leetcode.com/problems/restore-the-array)                                                                                  | [RestoreTheArray](src/main/java/day_270/RestoreTheArray.java)                                                                 |
 | 271 | 1046    | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                                                                                 | [LastStoneWeight](src/main/java/day_271/LastStoneWeight.java)                                                                 |
+| 272 | 2336    | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)                                                     | [SmallestInfiniteSet](src/main/java/day_272/SmallestInfiniteSet.java)                                                         |
 
 </details>
