@@ -363,5 +363,6 @@
 | 270 | 1416    | [Restore The Array](https://leetcode.com/problems/restore-the-array)                                                                                  | [RestoreTheArray](src/main/java/day_270/RestoreTheArray.java)                                                                 |
 | 271 | 1046    | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                                                                                 | [LastStoneWeight](src/main/java/day_271/LastStoneWeight.java)                                                                 |
 | 272 | 2336    | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)                                                     | [SmallestInfiniteSet](src/main/java/day_272/SmallestInfiniteSet.java)                                                         |
+| 273 | 258     | [Add Digits](https://leetcode.com/problems/add-digits/)                                                                                               | [AddDigits](src/main/java/day_273/AddDigits.java)                                                                             |
 
 </details>
