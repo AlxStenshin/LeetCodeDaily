@@ -365,5 +365,6 @@
 | 272 | 2336    | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)                                                     | [SmallestInfiniteSet](src/main/java/day_272/SmallestInfiniteSet.java)                                                         |
 | 273 | 258     | [Add Digits](https://leetcode.com/problems/add-digits/)                                                                                               | [AddDigits](src/main/java/day_273/AddDigits.java)                                                                             |
 | 274 | 319     | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)                                                                                         | [BulbSwitcher](src/main/java/day_274/BulbSwitcher.java)                                                                       |
+| 275 | 839     | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/)                                                                         | [SimilarStringGroups](src/main/java/day_275/SimilarStringGroups.java)                                                         |
 
 </details>
