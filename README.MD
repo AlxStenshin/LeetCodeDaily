@@ -366,5 +366,6 @@
 | 273 | 258     | [Add Digits](https://leetcode.com/problems/add-digits/)                                                                                               | [AddDigits](src/main/java/day_273/AddDigits.java)                                                                             |
 | 274 | 319     | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)                                                                                         | [BulbSwitcher](src/main/java/day_274/BulbSwitcher.java)                                                                       |
 | 275 | 839     | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/)                                                                         | [SimilarStringGroups](src/main/java/day_275/SimilarStringGroups.java)                                                         |
+| 276 | 1697    | [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/)                     | [CheckingExistenceOfEdgeLengthLimitedPaths](src/main/java/day_276/CheckingExistenceOfEdgeLengthLimitedPaths.java)             |
 
 </details>
