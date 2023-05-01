@@ -371,3 +371,13 @@
 | 277 | 1579    | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | [RemMaxNumberOfEdgesToKeepGraphFullyTraversable](src/main/java/day_277/RemMaxNumberOfEdgesToKeepGraphFullyTraversable.java)   |
 
 </details>
+
+
+<details>
+  <summary>May 2023</summary>
+
+| Day | Task Id | Task                                                                                                                                             | Solution(s)                                                                                                                     |
+|-----|---------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 278 | 1491    | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary) | [AverageSalaryExcludingTheMinimumAndMaximumSalary](src/main/java/day_278/AverageSalaryExcludingTheMinimumAndMaximumSalary.java) |                                                                     |
+
+</details>
