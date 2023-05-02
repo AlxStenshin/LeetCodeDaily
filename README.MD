@@ -378,6 +378,7 @@
 
 | Day | Task Id | Task                                                                                                                                             | Solution(s)                                                                                                                     |
 |-----|---------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| 278 | 1491    | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary) | [AverageSalaryExcludingTheMinimumAndMaximumSalary](src/main/java/day_278/AverageSalaryExcludingTheMinimumAndMaximumSalary.java) |                                                                     |
+| 278 | 1491    | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary) | [AverageSalaryExcludingTheMinimumAndMaximumSalary](src/main/java/day_278/AverageSalaryExcludingTheMinimumAndMaximumSalary.java) |
+| 279 | 1822    | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array)                                                 | [SignOfTheProductOfAnArray](src/main/java/day_279/SignOfTheProductOfAnArray.java)                                               |
 
 </details>
