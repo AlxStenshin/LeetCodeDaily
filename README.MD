@@ -385,5 +385,6 @@
 | 282 | 1456    | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [MaximumNumberOfVowelsInASubstringOfGivenLength](src/main/java/day_282/MaximumNumberOfVowelsInASubstringOfGivenLength.java)     |
 | 284 | 1964    | [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) | [FindTheLongestValidObstacleCourseAtEachPosition](src/main/java/day_284/FindTheLongestValidObstacleCourseAtEachPosition.java)   |
 | 285 | 1572    | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)                                                                         | [MatrixDiagonalSum](src/main/java/day_285/MatrixDiagonalSum.java)                                                               |
+| 286 | 54      | [Spiral Matrix](https://leetcode.com/problems/matrix-diagonal-sum/)                                                                               | [SpiralMatrix](src/main/java/day_286/SpiralMatrix.java)                                                                         |
 
 </details>
