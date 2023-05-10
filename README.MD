@@ -386,5 +386,6 @@
 | 284 | 1964    | [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) | [FindTheLongestValidObstacleCourseAtEachPosition](src/main/java/day_284/FindTheLongestValidObstacleCourseAtEachPosition.java)   |
 | 285 | 1572    | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)                                                                         | [MatrixDiagonalSum](src/main/java/day_285/MatrixDiagonalSum.java)                                                               |
 | 286 | 54      | [Spiral Matrix](https://leetcode.com/problems/matrix-diagonal-sum/)                                                                               | [SpiralMatrix](src/main/java/day_286/SpiralMatrix.java)                                                                         |
+| 287 | 59      | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)                                                                               | [SpiralMatrixTwo](src/main/java/day_287/SpiralMatrixTwo.java)                                                                   |
 
 </details>
