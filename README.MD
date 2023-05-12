@@ -388,5 +388,6 @@
 | 286 | 54      | [Spiral Matrix](https://leetcode.com/problems/matrix-diagonal-sum/)                                                                               | [SpiralMatrix](src/main/java/day_286/SpiralMatrix.java)                                                                         |
 | 287 | 59      | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)                                                                               | [SpiralMatrixTwo](src/main/java/day_287/SpiralMatrixTwo.java)                                                                   |
 | 288 | 1035    | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)                                                                                 | [UncrossedLines](src/main/java/day_288/UncrossedLines.java)                                                                     |
+| 289 | 2140    | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)                                             | [SolvingQuestionsWithBrainpower](src/main/java/day_289/SolvingQuestionsWithBrainpower.java)                                     |
 
 </details>
