@@ -389,5 +389,7 @@
 | 287 | 59      | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)                                                                               | [SpiralMatrixTwo](src/main/java/day_287/SpiralMatrixTwo.java)                                                                   |
 | 288 | 1035    | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)                                                                                 | [UncrossedLines](src/main/java/day_288/UncrossedLines.java)                                                                     |
 | 289 | 2140    | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)                                             | [SolvingQuestionsWithBrainpower](src/main/java/day_289/SolvingQuestionsWithBrainpower.java)                                     |
+| 290 | 2466    | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/)                                               | [CountWaysToBuildGoodStrings](src/main/java/day_290/CountWaysToBuildGoodStrings.java)                                           |
+| 291 | 1799    | [Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/)                                             | [MaximizeScoreAfterNOperations](src/main/java/day_291/MaximizeScoreAfterNOperations.java)                                       |
 
 </details>
