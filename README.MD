@@ -391,5 +391,6 @@
 | 289 | 2140    | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)                                             | [SolvingQuestionsWithBrainpower](src/main/java/day_289/SolvingQuestionsWithBrainpower.java)                                     |
 | 290 | 2466    | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/)                                               | [CountWaysToBuildGoodStrings](src/main/java/day_290/CountWaysToBuildGoodStrings.java)                                           |
 | 291 | 1799    | [Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/)                                             | [MaximizeScoreAfterNOperations](src/main/java/day_291/MaximizeScoreAfterNOperations.java)                                       |
+| 292 | 1721    | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)                                             | [SwappingNodesInALinkedList](src/main/java/day_292/SwappingNodesInALinkedList.java)                                       |
 
 </details>
