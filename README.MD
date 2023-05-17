@@ -393,5 +393,6 @@
 | 291 | 1799    | [Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/)                                             | [MaximizeScoreAfterNOperations](src/main/java/day_291/MaximizeScoreAfterNOperations.java)                                       |
 | 292 | 1721    | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)                                                 | [SwappingNodesInALinkedList](src/main/java/day_292/SwappingNodesInALinkedList.java)                                             |
 | 293 | 24      | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                                                         | [SwapNodesInPairs](src/main/java/day_293/SwapNodesInPairs.java)                                                                 |
+| 294 | 2130    | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)                                             | [MaximumTwinSumOfALinkedList](src/main/java/day_294/MaximumTwinSumOfALinkedList.java)                                           |
 
 </details>
