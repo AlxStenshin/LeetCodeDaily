@@ -394,5 +394,6 @@
 | 292 | 1721    | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)                                                 | [SwappingNodesInALinkedList](src/main/java/day_292/SwappingNodesInALinkedList.java)                                             |
 | 293 | 24      | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                                                         | [SwapNodesInPairs](src/main/java/day_293/SwapNodesInPairs.java)                                                                 |
 | 294 | 2130    | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)                                             | [MaximumTwinSumOfALinkedList](src/main/java/day_294/MaximumTwinSumOfALinkedList.java)                                           |
+| 294 | 1557    | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)                     | [MinimumNumberOfVerticesToReachAllNodes](src/main/java/day_295/MinimumNumberOfVerticesToReachAllNodes.java)                                           |
 
 </details>
