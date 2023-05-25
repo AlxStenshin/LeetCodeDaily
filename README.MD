@@ -401,5 +401,6 @@
 | 299 | 347     | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                                                 | [TopKFrequentElements](src/main/java/day_299/TopKFrequentElements.java)                                                         |
 | 300 | 703     | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)                                                 | [KthLargest](src/main/java/day_300/KthLargest.java)                                                                             |
 | 301 | 2542    | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)                                                             | [MaximumSubsequenceScore](src/main/java/day_301/MaximumSubsequenceScore.java)                                                   |
+| 302 | 837     | [New 21 Game](https://leetcode.com/problems/new-21-game/description/)                                                                             | [New21Game](src/main/java/day_302/New21Game.java)                                                                               |
 
 </details>
