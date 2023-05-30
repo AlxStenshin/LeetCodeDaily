@@ -406,5 +406,6 @@
 | 304 | 1140    | [Stone Game III](https://leetcode.com/problems/stone-game-iii/)                                                                                   | [StoneGameThree](src/main/java/day_304/StoneGameThree.java)                                                                     |
 | 305 | 1547    | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)                                                         | [MinimumCostToCutAStick](src/main/java/day_305/MinimumCostToCutAStick.java)                                                     |
 | 306 | 1603    | [Design Parking System](https://leetcode.com/problems/design-parking-system/)                                                                     | [ParkingSystem](src/main/java/day_306/ParkingSystem.java)                                                                       |
+| 307 | 705     | [Design Hash Set](https://leetcode.com/problems/design-hashset/)                                                                                  | [MyHashSet](src/main/java/day_307/MyHashSet.java)                                                                               |
 
 </details>
