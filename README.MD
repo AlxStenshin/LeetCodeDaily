@@ -404,6 +404,7 @@
 | 302 | 837     | [New 21 Game](https://leetcode.com/problems/new-21-game/description/)                                                                             | [New21Game](src/main/java/day_302/New21Game.java)                                                                               |
 | 303 | 1140    | [Stone Game II](https://leetcode.com/problems/stone-game-ii/)                                                                                     | [StoneGameTwo](src/main/java/day_303/StoneGameTwo.java)                                                                         |
 | 304 | 1140    | [Stone Game III](https://leetcode.com/problems/stone-game-iii/)                                                                                   | [StoneGameThree](src/main/java/day_304/StoneGameThree.java)                                                                     |
+| 305 | 1547    | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)                                                         | [MinimumCostToCutAStick](src/main/java/day_305/MinimumCostToCutAStick.java)                                                     |
 | 306 | 1603    | [Design Parking System](https://leetcode.com/problems/design-parking-system/)                                                                     | [ParkingSystem](src/main/java/day_306/ParkingSystem.java)                                                                       |
 
 </details>
