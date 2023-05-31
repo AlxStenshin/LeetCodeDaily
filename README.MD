@@ -13,6 +13,7 @@
     <img src="https://leetcode.com/static/images/badges/2023/gif/2023-02.gif" alt="Logo" height="80">
     <img src="https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" alt="Logo" height="80">
     <img src="https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" alt="Logo" height="80">
+    <img src="https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" alt="Logo" height="80">
 
 <details>
   <summary>July 2022</summary>
@@ -407,5 +408,6 @@
 | 305 | 1547    | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)                                                         | [MinimumCostToCutAStick](src/main/java/day_305/MinimumCostToCutAStick.java)                                                     |
 | 306 | 1603    | [Design Parking System](https://leetcode.com/problems/design-parking-system/)                                                                     | [ParkingSystem](src/main/java/day_306/ParkingSystem.java)                                                                       |
 | 307 | 705     | [Design Hash Set](https://leetcode.com/problems/design-hashset/)                                                                                  | [MyHashSet](src/main/java/day_307/MyHashSet.java)                                                                               |
+| 308 | 1396    | [Design Underground System](https://leetcode.com/problems/design-underground-system/)                                                             | [UndergroundSystem](src/main/java/day_308/UndergroundSystem.java)                                                               |
 
 </details>
