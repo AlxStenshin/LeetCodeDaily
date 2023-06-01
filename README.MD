@@ -411,3 +411,12 @@
 | 308 | 1396    | [Design Underground System](https://leetcode.com/problems/design-underground-system/)                                                             | [UndergroundSystem](src/main/java/day_308/UndergroundSystem.java)                                                               |
 
 </details>
+
+<details>
+  <summary>June 2023</summary>
+
+| Day | Task Id | Task                                                                                                                                              | Solution(s)                                                                                                                     |
+|-----|---------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 309 | 1091    | [Shortest Path in Binary Matrix ](https://leetcode.com/problems/shortest-path-in-binary-matrix/)  | [ShortestPathInBinaryMatrix](src/main/java/day_309/ShortestPathInBinaryMatrix.java) |
+
+</details>
