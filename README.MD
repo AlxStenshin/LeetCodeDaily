@@ -415,8 +415,9 @@
 <details>
   <summary>June 2023</summary>
 
-| Day | Task Id | Task                                                                                                                                              | Solution(s)                                                                                                                     |
-|-----|---------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| 309 | 1091    | [Shortest Path in Binary Matrix ](https://leetcode.com/problems/shortest-path-in-binary-matrix/)  | [ShortestPathInBinaryMatrix](src/main/java/day_309/ShortestPathInBinaryMatrix.java) |
+| Day | Task Id | Task                                                                                            | Solution(s)                                                                         |
+|-----|---------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| 309 | 1091    | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [ShortestPathInBinaryMatrix](src/main/java/day_309/ShortestPathInBinaryMatrix.java) |
+| 310 | 1091    | [Detonate the Maximum Bombs](https://leetcode.com/problems/det<br/>nate-the-maximum-bombs/)     | [DetonateTheMaximumBombs](src/main/java/day_310/DetonateTheMaximumBombs.java)       |
 
 </details>
