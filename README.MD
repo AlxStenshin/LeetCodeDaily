@@ -421,5 +421,6 @@
 | 310 | 1091    | [Detonate the Maximum Bombs](https://leetcode.com/problems/det<br/>nate-the-maximum-bombs/)               | [DetonateTheMaximumBombs](src/main/java/day_310/DetonateTheMaximumBombs.java)               |
 | 311 | 1376    | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [TimeNeededToInformAllEmployees](src/main/java/day_311/TimeNeededToInformAllEmployees.java) |
 | 312 | 547     | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)                                 | [NumberOfProvinces](src/main/java/day_312/NumberOfProvinces.java)                           |
+| 313 | 1232    | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)           | [CheckStraightLine](src/main/java/day_313/CheckStraightLine.java)                           |
 
 </details>
