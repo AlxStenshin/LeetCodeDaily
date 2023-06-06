@@ -422,5 +422,6 @@
 | 311 | 1376    | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [TimeNeededToInformAllEmployees](src/main/java/day_311/TimeNeededToInformAllEmployees.java) |
 | 312 | 547     | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)                                 | [NumberOfProvinces](src/main/java/day_312/NumberOfProvinces.java)                           |
 | 313 | 1232    | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)           | [CheckStraightLine](src/main/java/day_313/CheckStraightLine.java)                           |
+| 314 | 1502    | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)           | [CanMakeArithmeticProgressionFromSequence](src/main/java/day_314/CanMakeArithmeticProgressionFromSequence.java)                           |
 
 </details>

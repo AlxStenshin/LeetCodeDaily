@@ -1,12 +1,11 @@
 package day_313;
 
 /**
- * <a href = "https://leetcode.com/problems/check-if-it-is-a-straight-line/description/ >
+ * <a href = "https://leetcode.com/problems/check-if-it-is-a-straight-line/" >
  * 1232. Check If It Is a Straight Line </a>
  * <p>
  * You are given an array coordinates, coordinates[i] = [x, y], where [x, y] represents the coordinate of a point. Check if these points make a straight line in the XY plane.
  */
-
 
 public class CheckStraightLine {
     public boolean checkStraightLine(int[][] coordinates) {
