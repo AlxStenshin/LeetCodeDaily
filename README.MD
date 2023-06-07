@@ -423,5 +423,6 @@
 | 312 | 547     | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)                                 | [NumberOfProvinces](src/main/java/day_312/NumberOfProvinces.java)                           |
 | 313 | 1232    | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)           | [CheckStraightLine](src/main/java/day_313/CheckStraightLine.java)                           |
 | 314 | 1502    | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)           | [CanMakeArithmeticProgressionFromSequence](src/main/java/day_314/CanMakeArithmeticProgressionFromSequence.java)                           |
+| 315 | 1318    | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)           | [MinimumFlips](src/main/java/day_315/MinimumFlips.java)                           |
 
 </details>
