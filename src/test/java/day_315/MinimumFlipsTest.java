@@ -28,7 +28,7 @@ class MinimumFlipsTest {
     void shouldReturnZero() {
         int a = 1;
         int b = 2;
-        int c = 5;
+        int c = 3;
 
         assertEquals(0, new MinimumFlips().minFlips(a, b, c));
     }
