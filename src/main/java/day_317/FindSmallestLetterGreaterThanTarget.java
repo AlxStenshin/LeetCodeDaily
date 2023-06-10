@@ -8,6 +8,7 @@ package day_317;
  * <p>
  * Return the smallest character in letters that is lexicographically greater than target. If such a character does not exist, return the first character in letters.
  */
+
 public class FindSmallestLetterGreaterThanTarget {
     public char nextGreatestLetter(char[] letters, char target) {
         int left = 0;
