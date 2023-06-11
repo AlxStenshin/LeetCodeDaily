@@ -427,5 +427,6 @@
 | 316 | 1351    | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)                 | [CountNegativeNumbersInASortedMatrix](src/main/java/day_316/CountNegativeNumbersInASortedMatrix.java)           |
 | 317 | 744     | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)                   | [FindSmallestLetterGreaterThanTarget](src/main/java/day_317/FindSmallestLetterGreaterThanTarget.java)           |
 | 318 | 1802    | [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) | [MaximumValueAtAGivenIndexInABoundedArray](src/main/java/day_318/MaximumValueAtAGivenIndexInABoundedArray.java) |
+| 319 | 1146    | [Snapshot Array](https://leetcode.com/problems/snapshot-array/)                                                                       | [SnapshotArray](src/main/java/day_319/SnapshotArray.java)                                                       |
 
 </details>
