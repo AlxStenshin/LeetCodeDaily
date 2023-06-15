@@ -431,5 +431,6 @@
 | 320 | 228     | [Summary Ranges](https://leetcode.com/problems/summary-ranges/)                                                                       | [SummaryRanges](src/main/java/day_320/SummaryRanges.java)                                                       |
 | 321 | 2352    | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)                                               | [EqualRowAndColumnPairs](src/main/java/day_321/EqualRowAndColumnPairs.java)                                     |
 | 322 | 530     | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)                               | [BSTMinimumAbsoluteDifference](src/main/java/day_322/BSTMinimumAbsoluteDifference.java)                         |
+| 323 | 1161    | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)                               | [MaximumLevelSumBinaryTree](src/main/java/day_323/MaximumLevelSumBinaryTree.java)                               |
 
 </details>
