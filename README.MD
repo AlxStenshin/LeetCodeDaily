@@ -432,5 +432,6 @@
 | 321 | 2352    | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)                                               | [EqualRowAndColumnPairs](src/main/java/day_321/EqualRowAndColumnPairs.java)                                     |
 | 322 | 530     | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)                               | [BSTMinimumAbsoluteDifference](src/main/java/day_322/BSTMinimumAbsoluteDifference.java)                         |
 | 323 | 1161    | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)                               | [MaximumLevelSumBinaryTree](src/main/java/day_323/MaximumLevelSumBinaryTree.java)                               |
+| 324 | 1569    | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/)     | [NumberOfWaysToReorderArrayToGetSameBST](src/main/java/day_324/NumberOfWaysToReorderArrayToGetSameBST.java)     |
 
 </details>
