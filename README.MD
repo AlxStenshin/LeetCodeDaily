@@ -437,5 +437,6 @@
 | 326 | 2328    | [Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/)                           | [NumberOfIncreasingPathsInGrid](src/main/java/day_326/NumberOfIncreasingPathsInGrid.java)                       |
 | 327 | 1732    | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)                                                 | [FindTheHighestAltitude](src/main/java/day_327/FindTheHighestAltitude.java)                                     |
 | 328 | 2090    | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)                                               | [RadiusSubarrayAverages](src/main/java/day_328/RadiusSubarrayAverages.java)                                     |
+| 329 | 2448    | [Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/)                                   | [MinimumCostToMakeArrayEqual](src/main/java/day_329/MinimumCostToMakeArrayEqual.java)                           |
 
 </details>
