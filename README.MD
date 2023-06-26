@@ -442,5 +442,6 @@
 | 331 | 1027    | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/)                                             | [LongestArithmeticSubsequence](src/main/java/day_331/LongestArithmeticSubsequence.java)                               |
 | 332 | 956     | [Tallest Billboard](https://leetcode.com/problems/tallest-billboard/)                                                                       | [TallestBillboard](src/main/java/day_332/TallestBillboard.java)                                                       |
 | 333 | 1575    | [Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/)                                                       | [CountAllPossibleRoutes](src/main/java/day_333/CountAllPossibleRoutes.java)                                           |
+| 334 | 2462    | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/)                                                 | [TotalCostToHireWorkers](src/main/java/day_334/TotalCostToHireWorkers.java)                                           |
 
 </details>
