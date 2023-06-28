@@ -443,5 +443,7 @@
 | 332 | 956     | [Tallest Billboard](https://leetcode.com/problems/tallest-billboard/)                                                                       | [TallestBillboard](src/main/java/day_332/TallestBillboard.java)                                                       |
 | 333 | 1575    | [Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/)                                                       | [CountAllPossibleRoutes](src/main/java/day_333/CountAllPossibleRoutes.java)                                           |
 | 334 | 2462    | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/)                                                 | [TotalCostToHireWorkers](src/main/java/day_334/TotalCostToHireWorkers.java)                                           |
+| 335 | 373     | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)                                           | [FindPairsWithSmallestSums](src/main/java/day_335/FindPairsWithSmallestSums.java)                                     |
+| 336 | 1514    | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/)                                               | [PathWithMaximumProbability](src/main/java/day_336/PathWithMaximumProbability.java)                                   |
 
 </details>
