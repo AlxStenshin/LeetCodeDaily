@@ -14,6 +14,7 @@
     <img src="https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" alt="Logo" height="80">
     <img src="https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" alt="Logo" height="80">
     <img src="https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" alt="Logo" height="80">
+    <img src="https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" alt="Logo" height="80">
 
 <details>
   <summary>July 2022</summary>
