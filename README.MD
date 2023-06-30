@@ -446,5 +446,6 @@
 | 335 | 373     | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)                                           | [FindPairsWithSmallestSums](src/main/java/day_335/FindPairsWithSmallestSums.java)                                     |
 | 336 | 1514    | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/)                                               | [PathWithMaximumProbability](src/main/java/day_336/PathWithMaximumProbability.java)                                   |
 | 337 | 864     | [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/)                                               | [ShortestPathToGetAllKeys](src/main/java/day_337/ShortestPathToGetAllKeys.java)                                       |
+| 338 | 1970    | [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/)                                     | [LastDayWhereYouCanStillCross](src/main/java/day_338/LastDayWhereYouCanStillCross.java)                               |
 
 </details>
