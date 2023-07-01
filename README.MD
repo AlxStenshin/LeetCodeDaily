@@ -449,4 +449,11 @@
 | 337 | 864     | [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/)                                               | [ShortestPathToGetAllKeys](src/main/java/day_337/ShortestPathToGetAllKeys.java)                                       |
 | 338 | 1970    | [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/)                                     | [LastDayWhereYouCanStillCross](src/main/java/day_338/LastDayWhereYouCanStillCross.java)                               |
 
+</details><details>
+  <summary>July 2023</summary>
+
+| Day | Task Id | Task                                                                                        | Solution(s)                                                                       |
+|-----|---------|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| 339 | 2305    | [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/) | [FairDistributionOfCookies](src/main/java/day_339/FairDistributionOfCookies.java) |
+
 </details>
