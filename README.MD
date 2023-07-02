@@ -452,8 +452,9 @@
 </details><details>
   <summary>July 2023</summary>
 
-| Day | Task Id | Task                                                                                        | Solution(s)                                                                       |
-|-----|---------|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| 339 | 2305    | [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/) | [FairDistributionOfCookies](src/main/java/day_339/FairDistributionOfCookies.java) |
+| Day | Task Id | Task                                                                                                                            | Solution(s)                                                                                                       |
+|-----|---------|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| 339 | 2305    | [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)                                     | [FairDistributionOfCookies](src/main/java/day_339/FairDistributionOfCookies.java)                                 |
+| 340 | 1601    | [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) | [MaximumNumberOfAchievableTransferRequests](src/main/java/day_340/MaximumNumberOfAchievableTransferRequests.java) |
 
 </details>
