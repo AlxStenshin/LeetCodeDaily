@@ -452,11 +452,12 @@
 </details><details>
   <summary>July 2023</summary>
 
-| Day | Task Id | Task                                                                                                                            | Solution(s)                                                                                                       |
-|-----|---------|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| 339 | 2305    | [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)                                     | [FairDistributionOfCookies](src/main/java/day_339/FairDistributionOfCookies.java)                                 |
-| 340 | 1601    | [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) | [MaximumNumberOfAchievableTransferRequests](src/main/java/day_340/MaximumNumberOfAchievableTransferRequests.java) |
-| 341 | 859     | [Buddy Strings](https://leetcode.com/problems/buddy-strings/)                                                                   | [BuddyStrings](src/main/java/day_341/BuddyStrings.java)                                                           |
-| 342 | 137     | [Single Number II](https://leetcode.com/problems/single-number-ii/)                                                             | [SingleNumberTwo](src/main/java/day_342/SingleNumberTwo.java)                                                     |
+| Day | Task Id | Task                                                                                                                                   | Solution(s)                                                                                                             |
+|-----|---------|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| 339 | 2305    | [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)                                            | [FairDistributionOfCookies](src/main/java/day_339/FairDistributionOfCookies.java)                                       |
+| 340 | 1601    | [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/)        | [MaximumNumberOfAchievableTransferRequests](src/main/java/day_340/MaximumNumberOfAchievableTransferRequests.java)       |
+| 341 | 859     | [Buddy Strings](https://leetcode.com/problems/buddy-strings/)                                                                          | [BuddyStrings](src/main/java/day_341/BuddyStrings.java)                                                                 |
+| 342 | 137     | [Single Number II](https://leetcode.com/problems/single-number-ii/)                                                                    | [SingleNumberTwo](src/main/java/day_342/SingleNumberTwo.java)                                                           |
+| 343 | 1493    | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [LongestSubarrayOfOnesAfterDeletingOneElement](src/main/java/day_343/LongestSubarrayOfOnesAfterDeletingOneElement.java) |
 
 </details>
