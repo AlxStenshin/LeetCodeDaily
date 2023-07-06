@@ -459,5 +459,6 @@
 | 341 | 859     | [Buddy Strings](https://leetcode.com/problems/buddy-strings/)                                                                          | [BuddyStrings](src/main/java/day_341/BuddyStrings.java)                                                                 |
 | 342 | 137     | [Single Number II](https://leetcode.com/problems/single-number-ii/)                                                                    | [SingleNumberTwo](src/main/java/day_342/SingleNumberTwo.java)                                                           |
 | 343 | 1493    | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [LongestSubarrayOfOnesAfterDeletingOneElement](src/main/java/day_343/LongestSubarrayOfOnesAfterDeletingOneElement.java) |
+| 344 | 209     | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                                  | [MinimumSizeSubarraySum](src/main/java/day_344/MinimumSizeSubarraySum.java)                                             |
 
 </details>
