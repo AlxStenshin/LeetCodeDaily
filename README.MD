@@ -460,5 +460,7 @@
 | 342 | 137     | [Single Number II](https://leetcode.com/problems/single-number-ii/)                                                                    | [SingleNumberTwo](src/main/java/day_342/SingleNumberTwo.java)                                                           |
 | 343 | 1493    | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [LongestSubarrayOfOnesAfterDeletingOneElement](src/main/java/day_343/LongestSubarrayOfOnesAfterDeletingOneElement.java) |
 | 344 | 209     | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                                  | [MinimumSizeSubarraySum](src/main/java/day_344/MinimumSizeSubarraySum.java)                                             |
+| 345 | 2024    | [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/)                                  | [MaximizeTheConfusionOfAnExam](src/main/java/day_345/MaximizeTheConfusionOfAnExam.java)                                 |
+| 346 | 2551    | [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/)                                                              | [PutMarblesInBags](src/main/java/day_346/PutMarblesInBags.java)                                                         |
 
 </details>
