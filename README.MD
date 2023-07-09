@@ -462,5 +462,6 @@
 | 344 | 209     | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                                  | [MinimumSizeSubarraySum](src/main/java/day_344/MinimumSizeSubarraySum.java)                                             |
 | 345 | 2024    | [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/)                                  | [MaximizeTheConfusionOfAnExam](src/main/java/day_345/MaximizeTheConfusionOfAnExam.java)                                 |
 | 346 | 2551    | [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/)                                                              | [PutMarblesInBags](src/main/java/day_346/PutMarblesInBags.java)                                                         |
+| 347 | 2272    | [2272. Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/)                                | [SubstringWithLargestVariance](src/main/java/day_347/SubstringWithLargestVariance.java)                                 |
 
 </details>

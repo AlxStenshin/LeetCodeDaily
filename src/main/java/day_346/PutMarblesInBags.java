@@ -6,7 +6,6 @@ import java.util.Arrays;
  * <a href = "https://leetcode.com/problems/put-marbles-in-bags/" >
  * 2551. Put Marbles in Bags </a>
  * <p>
- *
  * You have k bags. You are given a 0-indexed integer array weights where weights[i] is the weight of the ith marble. You are also given the integer k.
  * <p>
  * Divide the marbles into the k bags according to the following rules:
