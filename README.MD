@@ -465,5 +465,6 @@
 | 347 | 2272    | [Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/)                                      | [SubstringWithLargestVariance](src/main/java/day_347/SubstringWithLargestVariance.java)                                 |
 | 348 | 111     | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)                                            | [MinimumSizeSubarraySum](src/main/java/day_348/MinimumDepthOfBinaryTree.java)                                           |
 | 349 | 863     | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)                              | [AllNodesSameDistanceInBinaryTree](src/main/java/day_349/AllNodesSameDistanceInBinaryTree.java)                         |
+| 350 | 802     | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)                                                  | [FindEventualSafeStates](src/main/java/day_350/FindEventualSafeStates.java)                                             |
 
 </details>
