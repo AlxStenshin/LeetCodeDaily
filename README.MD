@@ -469,6 +469,7 @@
 | 351 | 207     | [Course Schedule](https://leetcode.com/problems/course-schedule/)                                                                       | [CourseSchedule](src/main/java/day_351/CourseSchedule.java)                                                               |
 | 352 | 1218    | [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [LongestArithmeticSubsequenceOfGivenDifference](src/main/java/day_352/LongestArithmeticSubsequenceOfGivenDifference.java) |
 | 353 | 1751    | [Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/)     | [MaximumNumberOfEventsThatCanBeAttendedTwo](src/main/java/day_353/MaximumNumberOfEventsThatCanBeAttendedTwo.java)         |
-| 354 | 1751    | [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/)                                               | [SmallestSufficientTeam](src/main/java/day_354/SmallestSufficientTeam.java)                                               |
+| 354 | 1751    | [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/)                                                     | [SmallestSufficientTeam](src/main/java/day_354/SmallestSufficientTeam.java)                                               |
+| 355 | 1751    | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)                                                                 | [AddTwoNumbersTwo](src/main/java/day_355/AddTwoNumbersTwo.java)                                                           |
 
 </details>
