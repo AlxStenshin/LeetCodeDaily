@@ -471,5 +471,6 @@
 | 353 | 1751    | [Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/)     | [MaximumNumberOfEventsThatCanBeAttendedTwo](src/main/java/day_353/MaximumNumberOfEventsThatCanBeAttendedTwo.java)         |
 | 354 | 1751    | [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/)                                                     | [SmallestSufficientTeam](src/main/java/day_354/SmallestSufficientTeam.java)                                               |
 | 355 | 1751    | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)                                                                 | [AddTwoNumbersTwo](src/main/java/day_355/AddTwoNumbersTwo.java)                                                           |
+| 356 | 146     | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                                                   | [LRUCache](src/main/java/day_356/LRUCache.java)                                                                           |
 
 </details>
