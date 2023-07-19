@@ -472,5 +472,6 @@
 | 354 | 1751    | [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/)                                                     | [SmallestSufficientTeam](src/main/java/day_354/SmallestSufficientTeam.java)                                               |
 | 355 | 1751    | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)                                                                 | [AddTwoNumbersTwo](src/main/java/day_355/AddTwoNumbersTwo.java)                                                           |
 | 356 | 146     | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                                                   | [LRUCache](src/main/java/day_356/LRUCache.java)                                                                           |
+| 357 | 435     | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)                                                   | [NonOverlappingIntervals](src/main/java/day_357/NonOverlappingIntervals.java)                                             |
 
 </details>
