@@ -475,5 +475,6 @@
 | 357 | 435     | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)                                                   | [NonOverlappingIntervals](src/main/java/day_357/NonOverlappingIntervals.java)                                             |
 | 358 | 673     | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)                     | [NumberOfLongestIncreasingSubsequence](src/main/java/day_358/NumberOfLongestIncreasingSubsequence.java)                   |
 | 359 | 688     | [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)                                     | [KnightProbabilityInChessboard](src/main/java/day_359/KnightProbabilityInChessboard.java)                                 |
+| 360 | 894     | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)                                         | [AllPossibleFullBinaryTrees](src/main/java/day_360/AllPossibleFullBinaryTrees.java)                                       |
 
 </details>
