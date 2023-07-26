@@ -478,5 +478,7 @@
 | 359 | 688     | [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)                                     | [KnightProbabilityInChessboard](src/main/java/day_359/KnightProbabilityInChessboard.java)                                 |
 | 360 | 894     | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)                                         | [AllPossibleFullBinaryTrees](src/main/java/day_360/AllPossibleFullBinaryTrees.java)                                       |
 | 361 | 50      | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                                                                                      | [PowX](src/main/java/day_361/PowX.java)                                                                                   |
+| 362 | 585     | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)                                         | [PeakIndexInAMountainArray](src/main/java/day_362/PeakIndexInAMountainArray.java)                                         |
+| 363 | 1870    | [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/)                                       | [MinimumSpeedToArriveOnTime](src/main/java/day_363/MinimumSpeedToArriveOnTime.java)                                       |
 
 </details>
