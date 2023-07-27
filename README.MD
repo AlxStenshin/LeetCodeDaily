@@ -480,5 +480,6 @@
 | 361 | 50      | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                                                                                      | [PowX](src/main/java/day_361/PowX.java)                                                                                   |
 | 362 | 585     | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)                                         | [PeakIndexInAMountainArray](src/main/java/day_362/PeakIndexInAMountainArray.java)                                         |
 | 363 | 1870    | [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/)                                       | [MinimumSpeedToArriveOnTime](src/main/java/day_363/MinimumSpeedToArriveOnTime.java)                                       |
+| 364 | 2141    | [Maximum Running Time of N Computers](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/)                                   | [MaximumRunningTimeOfNComputers](src/main/java/day_364/MaximumRunningTimeOfNComputers.java)                               |
 
 </details>

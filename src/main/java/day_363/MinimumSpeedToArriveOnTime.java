@@ -1,4 +1,5 @@
 package day_363;
+
 /**
  * <a href = "https://leetcode.com/problems/minimum-speed-to-arrive-on-time/" >
  * 1870. Minimum Speed to Arrive on Time </a>
